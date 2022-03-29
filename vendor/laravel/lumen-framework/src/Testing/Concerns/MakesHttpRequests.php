@@ -15,7 +15,7 @@ trait MakesHttpRequests
     /**
      * The last response returned by the application.
      *
-     * @var \Illuminate\Testing\TestResponse
+     * @var \Illuminate\Http\Response
      */
     protected $response;
 

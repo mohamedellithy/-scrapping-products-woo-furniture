@@ -2,7 +2,6 @@
 
 namespace Illuminate\View\Engines;
 
-use Illuminate\Filesystem\Filesystem;
 use Illuminate\View\Compilers\CompilerInterface;
 use Illuminate\View\ViewException;
 use Throwable;
@@ -24,16 +23,13 @@ class CompilerEngine extends PhpEngine
     protected $lastCompiled = [];
 
     /**
-     * Create a new compiler engine instance.
+     * Create a new Blade view engine instance.
      *
      * @param  \Illuminate\View\Compilers\CompilerInterface  $compiler
-     * @param  \Illuminate\Filesystem\Filesystem|null  $files
      * @return void
      */
-    public function __construct(CompilerInterface $compiler, Filesystem $files = null)
+    public function __construct(CompilerInterface $compiler)
     {
-        parent::__construct($files ?: new Filesystem);
-
         $this->compiler = $compiler;
     }
 

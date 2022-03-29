@@ -10,14 +10,13 @@ use Illuminate\Contracts\Container\Container;
 use Illuminate\Contracts\Debug\ExceptionHandler;
 use Illuminate\Contracts\Mail\Mailer;
 use Illuminate\Support\Arr;
+use Illuminate\Support\Carbon;
 use Illuminate\Support\Facades\Date;
 use Illuminate\Support\Reflector;
-use Illuminate\Support\Stringable;
 use Illuminate\Support\Traits\Macroable;
 use Illuminate\Support\Traits\ReflectsClosures;
 use Psr\Http\Client\ClientExceptionInterface;
 use Symfony\Component\Process\Process;
-use Throwable;
 
 class Event
 {
@@ -87,7 +86,7 @@ class Event
     public $expiresAt = 1440;
 
     /**
-     * Indicates if the command should run in the background.
+     * Indicates if the command should run in background.
      *
      * @var bool
      */
@@ -219,17 +218,11 @@ class Event
      */
     protected function runCommandInForeground(Container $container)
     {
-        try {
-            $this->callBeforeCallbacks($container);
+        $this->callBeforeCallbacks($container);
 
-            $this->exitCode = Process::fromShellCommandline(
-                $this->buildCommand(), base_path(), null, null, null
-            )->run();
+        $this->exitCode = Process::fromShellCommandline($this->buildCommand(), base_path(), null, null, null)->run();
 
-            $this->callAfterCallbacks($container);
-        } finally {
-            $this->removeMutex();
-        }
+        $this->callAfterCallbacks($container);
     }
 
     /**
@@ -240,15 +233,9 @@ class Event
      */
     protected function runCommandInBackground(Container $container)
     {
-        try {
-            $this->callBeforeCallbacks($container);
+        $this->callBeforeCallbacks($container);
 
-            Process::fromShellCommandline($this->buildCommand(), base_path(), null, null, null)->run();
-        } catch (Throwable $exception) {
-            $this->removeMutex();
-
-            throw $exception;
-        }
+        Process::fromShellCommandline($this->buildCommand(), base_path(), null, null, null)->run();
     }
 
     /**
@@ -288,11 +275,7 @@ class Event
     {
         $this->exitCode = (int) $exitCode;
 
-        try {
-            $this->callAfterCallbacks($container);
-        } finally {
-            $this->removeMutex();
-        }
+        $this->callAfterCallbacks($container);
     }
 
     /**
@@ -338,13 +321,13 @@ class Event
      */
     protected function expressionPasses()
     {
-        $date = Date::now();
+        $date = Carbon::now();
 
         if ($this->timezone) {
-            $date = $date->setTimezone($this->timezone);
+            $date->setTimezone($this->timezone);
         }
 
-        return (new CronExpression($this->expression))->isDue($date->toDateTimeString());
+        return CronExpression::factory($this->expression)->isDue($date->toDateTimeString());
     }
 
     /**
@@ -492,7 +475,7 @@ class Event
      */
     protected function emailOutput(Mailer $mailer, $addresses, $onlyIfOutputExists = false)
     {
-        $text = is_file($this->output) ? file_get_contents($this->output) : '';
+        $text = file_exists($this->output) ? file_get_contents($this->output) : '';
 
         if ($onlyIfOutputExists && empty($text)) {
             return;
@@ -603,7 +586,7 @@ class Event
     }
 
     /**
-     * State that the command should run in the background.
+     * State that the command should run in background.
      *
      * @return $this
      */
@@ -664,7 +647,9 @@ class Event
 
         $this->expiresAt = $expiresAt;
 
-        return $this->skip(function () {
+        return $this->then(function () {
+            $this->mutex->forget($this);
+        })->skip(function () {
             return $this->mutex->exists($this);
         });
     }
@@ -743,12 +728,6 @@ class Event
      */
     public function then(Closure $callback)
     {
-        $parameters = $this->closureParameterTypes($callback);
-
-        if (Arr::get($parameters, 'output') === Stringable::class) {
-            return $this->thenWithOutput($callback);
-        }
-
         $this->afterCallbacks[] = $callback;
 
         return $this;
@@ -776,12 +755,6 @@ class Event
      */
     public function onSuccess(Closure $callback)
     {
-        $parameters = $this->closureParameterTypes($callback);
-
-        if (Arr::get($parameters, 'output') === Stringable::class) {
-            return $this->onSuccessWithOutput($callback);
-        }
-
         return $this->then(function (Container $container) use ($callback) {
             if (0 === $this->exitCode) {
                 $container->call($callback);
@@ -811,12 +784,6 @@ class Event
      */
     public function onFailure(Closure $callback)
     {
-        $parameters = $this->closureParameterTypes($callback);
-
-        if (Arr::get($parameters, 'output') === Stringable::class) {
-            return $this->onFailureWithOutput($callback);
-        }
-
         return $this->then(function (Container $container) use ($callback) {
             if (0 !== $this->exitCode) {
                 $container->call($callback);
@@ -848,11 +815,11 @@ class Event
     protected function withOutputCallback(Closure $callback, $onlyIfOutputExists = false)
     {
         return function (Container $container) use ($callback, $onlyIfOutputExists) {
-            $output = $this->output && is_file($this->output) ? file_get_contents($this->output) : '';
+            $output = $this->output && file_exists($this->output) ? file_get_contents($this->output) : '';
 
             return $onlyIfOutputExists && empty($output)
                             ? null
-                            : $container->call($callback, ['output' => new Stringable($output)]);
+                            : $container->call($callback, ['output' => $output]);
         };
     }
 
@@ -904,8 +871,9 @@ class Event
      */
     public function nextRunDate($currentTime = 'now', $nth = 0, $allowCurrentDate = false)
     {
-        return Date::instance((new CronExpression($this->getExpression()))
-            ->getNextRunDate($currentTime, $nth, $allowCurrentDate, $this->timezone));
+        return Date::instance(CronExpression::factory(
+            $this->getExpression()
+        )->getNextRunDate($currentTime, $nth, $allowCurrentDate, $this->timezone));
     }
 
     /**
@@ -929,17 +897,5 @@ class Event
         $this->mutex = $mutex;
 
         return $this;
-    }
-
-    /**
-     * Delete the mutex for the event.
-     *
-     * @return void
-     */
-    protected function removeMutex()
-    {
-        if ($this->withoutOverlapping) {
-            $this->mutex->forget($this);
-        }
     }
 }

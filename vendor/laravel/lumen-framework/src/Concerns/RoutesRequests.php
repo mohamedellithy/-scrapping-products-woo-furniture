@@ -57,7 +57,7 @@ trait RoutesRequests
     /**
      * Add new middleware to the application.
      *
-     * @param  \Closure|array  $middleware
+     * @param  Closure|array  $middleware
      * @return $this
      */
     public function middleware($middleware)
@@ -85,10 +85,7 @@ trait RoutesRequests
     }
 
     /**
-     * Dispatch request and return response.
-     *
-     * @param  \Symfony\Component\HttpFoundation\Request  $request
-     * @return \Illuminate\Http\Response
+     * {@inheritdoc}
      */
     public function handle(SymfonyRequest $request)
     {
@@ -104,7 +101,7 @@ trait RoutesRequests
     /**
      * Run the application and send the response.
      *
-     * @param  \Symfony\Component\HttpFoundation\Request|null  $request
+     * @param  SymfonyRequest|null  $request
      * @return void
      */
     public function run($request = null)
@@ -152,8 +149,8 @@ trait RoutesRequests
     /**
      * Dispatch the incoming request.
      *
-     * @param  \Symfony\Component\HttpFoundation\Request|null  $request
-     * @return \Illuminate\Http\Response
+     * @param  SymfonyRequest|null  $request
+     * @return Response
      */
     public function dispatch($request = null)
     {
@@ -198,7 +195,7 @@ trait RoutesRequests
     /**
      * Create a FastRoute dispatcher instance for the application.
      *
-     * @return \FastRoute\Dispatcher
+     * @return Dispatcher
      */
     protected function createDispatcher()
     {
@@ -396,7 +393,7 @@ trait RoutesRequests
     /**
      * Gather the full class names for the middleware short-cut string.
      *
-     * @param  string|array  $middleware
+     * @param  string  $middleware
      * @return array
      */
     protected function gatherMiddlewareClassNames($middleware)
@@ -433,7 +430,7 @@ trait RoutesRequests
      * Prepare the response for sending.
      *
      * @param  mixed  $response
-     * @return \Illuminate\Http\Response
+     * @return Response
      */
     public function prepareResponse($response)
     {

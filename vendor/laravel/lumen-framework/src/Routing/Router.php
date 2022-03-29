@@ -59,7 +59,7 @@ class Router
 
         $this->updateGroupStack($attributes);
 
-        $callback($this);
+        call_user_func($callback, $this);
 
         array_pop($this->groupStack);
     }
@@ -148,7 +148,7 @@ class Router
         $oldPrefix = $old['prefix'] ?? null;
 
         if (isset($new['prefix'])) {
-            return trim($oldPrefix ?? '', '/').'/'.trim($new['prefix'], '/');
+            return trim($oldPrefix, '/').'/'.trim($new['prefix'], '/');
         }
 
         return $oldPrefix;
@@ -234,7 +234,7 @@ class Router
      * Merge the group attributes into the action.
      *
      * @param  array  $action
-     * @param  array  $attributes
+     * @param  array  $attributes The group attributes
      * @return array
      */
     protected function mergeGroupAttributes(array $action, array $attributes)

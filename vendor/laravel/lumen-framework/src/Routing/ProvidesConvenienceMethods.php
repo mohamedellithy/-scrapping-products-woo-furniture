@@ -58,7 +58,7 @@ trait ProvidesConvenienceMethods
      * @param  array  $customAttributes
      * @return array
      *
-     * @throws \Illuminate\Validation\ValidationException
+     * @throws ValidationException
      */
     public function validate(Request $request, array $rules, array $messages = [], array $customAttributes = [])
     {
@@ -92,7 +92,7 @@ trait ProvidesConvenienceMethods
      * @param  \Illuminate\Contracts\Validation\Validator  $validator
      * @return void
      *
-     * @throws \Illuminate\Validation\ValidationException
+     * @throws ValidationException
      */
     protected function throwValidationException(Request $request, $validator)
     {
@@ -102,31 +102,24 @@ trait ProvidesConvenienceMethods
     }
 
     /**
-     * Build a response based on the given errors.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @param  array  $errors
-     * @return \Illuminate\Http\JsonResponse|mixed
+     * {@inheritdoc}
      */
     protected function buildFailedValidationResponse(Request $request, array $errors)
     {
         if (isset(static::$responseBuilder)) {
-            return (static::$responseBuilder)($request, $errors);
+            return call_user_func(static::$responseBuilder, $request, $errors);
         }
 
         return new JsonResponse($errors, 422);
     }
 
     /**
-     * Format validation errors.
-     *
-     * @param  \Illuminate\Validation\Validator  $validator
-     * @return array|mixed
+     * {@inheritdoc}
      */
     protected function formatValidationErrors(Validator $validator)
     {
         if (isset(static::$errorFormatter)) {
-            return (static::$errorFormatter)($validator);
+            return call_user_func(static::$errorFormatter, $validator);
         }
 
         return $validator->errors()->getMessages();

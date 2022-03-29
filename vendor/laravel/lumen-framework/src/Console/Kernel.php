@@ -124,16 +124,6 @@ class Kernel implements KernelContract
     }
 
     /**
-     * Bootstrap the application for artisan commands.
-     *
-     * @return void
-     */
-    public function bootstrap()
-    {
-        //
-    }
-
-    /**
      * Terminate the application.
      *
      * @param  \Symfony\Component\Console\Input\InputInterface  $input

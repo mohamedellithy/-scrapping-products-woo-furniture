@@ -2,9 +2,7 @@
 
 namespace Illuminate\Cache;
 
-use Illuminate\Contracts\Cache\LockProvider;
-
-class NullStore extends TaggableStore implements LockProvider
+class NullStore extends TaggableStore
 {
     use RetrievesMultipleKeys;
 
@@ -12,7 +10,7 @@ class NullStore extends TaggableStore implements LockProvider
      * Retrieve an item from the cache by key.
      *
      * @param  string  $key
-     * @return void
+     * @return mixed
      */
     public function get($key)
     {
@@ -37,7 +35,7 @@ class NullStore extends TaggableStore implements LockProvider
      *
      * @param  string  $key
      * @param  mixed  $value
-     * @return bool
+     * @return int|bool
      */
     public function increment($key, $value = 1)
     {
@@ -49,7 +47,7 @@ class NullStore extends TaggableStore implements LockProvider
      *
      * @param  string  $key
      * @param  mixed  $value
-     * @return bool
+     * @return int|bool
      */
     public function decrement($key, $value = 1)
     {
@@ -66,31 +64,6 @@ class NullStore extends TaggableStore implements LockProvider
     public function forever($key, $value)
     {
         return false;
-    }
-
-    /**
-     * Get a lock instance.
-     *
-     * @param  string  $name
-     * @param  int  $seconds
-     * @param  string|null  $owner
-     * @return \Illuminate\Contracts\Cache\Lock
-     */
-    public function lock($name, $seconds = 0, $owner = null)
-    {
-        return new NoLock($name, $seconds, $owner);
-    }
-
-    /**
-     * Restore a lock instance using the owner identifier.
-     *
-     * @param  string  $name
-     * @param  string  $owner
-     * @return \Illuminate\Contracts\Cache\Lock
-     */
-    public function restoreLock($name, $owner)
-    {
-        return $this->lock($name, 0, $owner);
     }
 
     /**
