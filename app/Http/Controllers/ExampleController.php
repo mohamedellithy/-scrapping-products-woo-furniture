@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use App\Post;
 class ExampleController extends Controller
 {
     /**
@@ -9,10 +9,8 @@ class ExampleController extends Controller
      *
      * @return void
      */
-    public function __construct()
-    {
-        //
+    public function testDb(){
+        $data = Post::where('post_type','product')->get();
+        return $data;
     }
-
-    //
 }
