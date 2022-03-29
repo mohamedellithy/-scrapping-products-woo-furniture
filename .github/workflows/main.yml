@@ -1,0 +1,23 @@
+on:  
+  push:
+    branches:
+      - main
+name: 🚀 Deploy to production furniture
+jobs:
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: 🚚 Get latest code furniture
+      uses: actions/checkout@v2
+      with:
+         fetch-depth: 2
+    - name: 📂 Sync files furniture
+      uses: SamKirkland/FTP-Deploy-Action@3.1.1
+      with:
+          ftp-server: ${{ secrets.FTP_SERVER }}
+          ftp-username: ${{ secrets.FTP_USERNAME }}
+          ftp-password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          port: 21
+          dns_fatal_timeout: "never"
