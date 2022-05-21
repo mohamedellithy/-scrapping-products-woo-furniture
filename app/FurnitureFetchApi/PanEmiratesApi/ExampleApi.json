@@ -1,0 +1,355 @@
+// all products
+// https://www.panemirates.com/uae/en/rss/1/productlistings?page=2
+
+// single product
+{
+    "parent_product_id": "37429",
+    "product_id": "37422",
+    "title": "Menlo Bed 180x200 Cm",
+    "url": "\/menlo-bed-180x200-cm-p37429",
+    "stock_level": "15",
+    "has_stock": true,
+    "child_selected": true,
+    "brand": "PAN",
+    "category": "Furniture",
+    "reference": "011QAF7000072",
+    "sashes": [],
+    "show_qty_select": true,
+    "can_edit": true,
+    "pre_order": [],
+    "images": [{
+            "id": "160822",
+            "alt": "Menlo Bed 180x200 Cm",
+            "type": "image",
+            "unique_id": "a46b622a1140ec756d46b270d9d66f93",
+            "sizes": {
+                "thumb": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160822_thumb.jpg",
+                    "width": "411",
+                    "height": "274",
+                    "size": "thumbnail"
+                },
+                "thumbmini": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160822_thumbmini.jpg",
+                    "width": "186",
+                    "height": "124",
+                    "size": "thumbmini"
+                },
+                "thumbmicro": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160822_thumbmicro.jpg",
+                    "width": "96",
+                    "height": "64",
+                    "size": "thumbmicro"
+                },
+                "medium": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160822_medium.jpg",
+                    "width": "999",
+                    "height": "665",
+                    "size": "medium"
+                },
+                "image": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160822_image.jpg",
+                    "width": "1500",
+                    "height": "1000",
+                    "size": "image"
+                }
+            },
+            "src_set": "\/images\/menlo-bed-180x200-cm-p37429-160822_thumb.jpg 411w, \/images\/menlo-bed-180x200-cm-p37429-160822_thumbmini.jpg 186w, \/images\/menlo-bed-180x200-cm-p37429-160822_thumbmicro.jpg 96w, \/images\/menlo-bed-180x200-cm-p37429-160822_medium.jpg 999w, \/images\/menlo-bed-180x200-cm-p37429-160822_image.jpg 1500w",
+            "index": "0"
+        },
+        {
+            "id": "160823",
+            "alt": "Menlo Bed 180x200 Cm",
+            "type": "image",
+            "unique_id": "a46b622a1140ec756d46b270d9d66f93",
+            "sizes": {
+                "thumb": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160823_thumb.jpg",
+                    "width": "411",
+                    "height": "274",
+                    "size": "thumbnail"
+                },
+                "thumbmini": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160823_thumbmini.jpg",
+                    "width": "186",
+                    "height": "124",
+                    "size": "thumbmini"
+                },
+                "thumbmicro": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160823_thumbmicro.jpg",
+                    "width": "96",
+                    "height": "64",
+                    "size": "thumbmicro"
+                },
+                "medium": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160823_medium.jpg",
+                    "width": "999",
+                    "height": "665",
+                    "size": "medium"
+                },
+                "image": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160823_image.jpg",
+                    "width": "1500",
+                    "height": "1000",
+                    "size": "image"
+                }
+            },
+            "src_set": "\/images\/menlo-bed-180x200-cm-p37429-160823_thumb.jpg 411w, \/images\/menlo-bed-180x200-cm-p37429-160823_thumbmini.jpg 186w, \/images\/menlo-bed-180x200-cm-p37429-160823_thumbmicro.jpg 96w, \/images\/menlo-bed-180x200-cm-p37429-160823_medium.jpg 999w, \/images\/menlo-bed-180x200-cm-p37429-160823_image.jpg 1500w",
+            "index": "1"
+        },
+        {
+            "id": "160824",
+            "alt": "Menlo Bed 180x200 Cm",
+            "type": "image",
+            "unique_id": "a46b622a1140ec756d46b270d9d66f93",
+            "sizes": {
+                "thumb": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160824_thumb.jpg",
+                    "width": "411",
+                    "height": "274",
+                    "size": "thumbnail"
+                },
+                "thumbmini": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160824_thumbmini.jpg",
+                    "width": "186",
+                    "height": "124",
+                    "size": "thumbmini"
+                },
+                "thumbmicro": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160824_thumbmicro.jpg",
+                    "width": "96",
+                    "height": "64",
+                    "size": "thumbmicro"
+                },
+                "medium": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160824_medium.jpg",
+                    "width": "999",
+                    "height": "665",
+                    "size": "medium"
+                },
+                "image": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160824_image.jpg",
+                    "width": "1500",
+                    "height": "1000",
+                    "size": "image"
+                }
+            },
+            "src_set": "\/images\/menlo-bed-180x200-cm-p37429-160824_thumb.jpg 411w, \/images\/menlo-bed-180x200-cm-p37429-160824_thumbmini.jpg 186w, \/images\/menlo-bed-180x200-cm-p37429-160824_thumbmicro.jpg 96w, \/images\/menlo-bed-180x200-cm-p37429-160824_medium.jpg 999w, \/images\/menlo-bed-180x200-cm-p37429-160824_image.jpg 1500w",
+            "index": "2"
+        },
+        {
+            "id": "160825",
+            "alt": "Menlo Bed 180x200 Cm",
+            "type": "image",
+            "unique_id": "a46b622a1140ec756d46b270d9d66f93",
+            "sizes": {
+                "thumb": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160825_thumb.jpg",
+                    "width": "411",
+                    "height": "274",
+                    "size": "thumbnail"
+                },
+                "thumbmini": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160825_thumbmini.jpg",
+                    "width": "186",
+                    "height": "124",
+                    "size": "thumbmini"
+                },
+                "thumbmicro": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160825_thumbmicro.jpg",
+                    "width": "96",
+                    "height": "64",
+                    "size": "thumbmicro"
+                },
+                "medium": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160825_medium.jpg",
+                    "width": "999",
+                    "height": "665",
+                    "size": "medium"
+                },
+                "image": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160825_image.jpg",
+                    "width": "1500",
+                    "height": "1000",
+                    "size": "image"
+                }
+            },
+            "src_set": "\/images\/menlo-bed-180x200-cm-p37429-160825_thumb.jpg 411w, \/images\/menlo-bed-180x200-cm-p37429-160825_thumbmini.jpg 186w, \/images\/menlo-bed-180x200-cm-p37429-160825_thumbmicro.jpg 96w, \/images\/menlo-bed-180x200-cm-p37429-160825_medium.jpg 999w, \/images\/menlo-bed-180x200-cm-p37429-160825_image.jpg 1500w",
+            "index": "3"
+        },
+        {
+            "id": "160826",
+            "alt": "Menlo Bed 180x200 Cm",
+            "type": "image",
+            "unique_id": "a46b622a1140ec756d46b270d9d66f93",
+            "sizes": {
+                "thumb": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160826_thumb.jpg",
+                    "width": "411",
+                    "height": "274",
+                    "size": "thumbnail"
+                },
+                "thumbmini": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160826_thumbmini.jpg",
+                    "width": "186",
+                    "height": "124",
+                    "size": "thumbmini"
+                },
+                "thumbmicro": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160826_thumbmicro.jpg",
+                    "width": "96",
+                    "height": "64",
+                    "size": "thumbmicro"
+                },
+                "medium": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160826_medium.jpg",
+                    "width": "999",
+                    "height": "665",
+                    "size": "medium"
+                },
+                "image": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160826_image.jpg",
+                    "width": "1500",
+                    "height": "1000",
+                    "size": "image"
+                }
+            },
+            "src_set": "\/images\/menlo-bed-180x200-cm-p37429-160826_thumb.jpg 411w, \/images\/menlo-bed-180x200-cm-p37429-160826_thumbmini.jpg 186w, \/images\/menlo-bed-180x200-cm-p37429-160826_thumbmicro.jpg 96w, \/images\/menlo-bed-180x200-cm-p37429-160826_medium.jpg 999w, \/images\/menlo-bed-180x200-cm-p37429-160826_image.jpg 1500w",
+            "index": "4"
+        },
+        {
+            "id": "160827",
+            "alt": "Menlo Bed 180x200 Cm",
+            "type": "image",
+            "unique_id": "a46b622a1140ec756d46b270d9d66f93",
+            "sizes": {
+                "thumb": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160827_thumb.jpg",
+                    "width": "411",
+                    "height": "274",
+                    "size": "thumbnail"
+                },
+                "thumbmini": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160827_thumbmini.jpg",
+                    "width": "186",
+                    "height": "124",
+                    "size": "thumbmini"
+                },
+                "thumbmicro": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160827_thumbmicro.jpg",
+                    "width": "96",
+                    "height": "64",
+                    "size": "thumbmicro"
+                },
+                "medium": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160827_medium.jpg",
+                    "width": "999",
+                    "height": "665",
+                    "size": "medium"
+                },
+                "image": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160827_image.jpg",
+                    "width": "1500",
+                    "height": "1000",
+                    "size": "image"
+                }
+            },
+            "src_set": "\/images\/menlo-bed-180x200-cm-p37429-160827_thumb.jpg 411w, \/images\/menlo-bed-180x200-cm-p37429-160827_thumbmini.jpg 186w, \/images\/menlo-bed-180x200-cm-p37429-160827_thumbmicro.jpg 96w, \/images\/menlo-bed-180x200-cm-p37429-160827_medium.jpg 999w, \/images\/menlo-bed-180x200-cm-p37429-160827_image.jpg 1500w",
+            "index": "5"
+        },
+        {
+            "id": "160828",
+            "alt": "Menlo Bed 180x200 Cm",
+            "type": "image",
+            "unique_id": "a46b622a1140ec756d46b270d9d66f93",
+            "sizes": {
+                "thumb": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160828_thumb.jpg",
+                    "width": "411",
+                    "height": "274",
+                    "size": "thumbnail"
+                },
+                "thumbmini": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160828_thumbmini.jpg",
+                    "width": "186",
+                    "height": "124",
+                    "size": "thumbmini"
+                },
+                "thumbmicro": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160828_thumbmicro.jpg",
+                    "width": "96",
+                    "height": "64",
+                    "size": "thumbmicro"
+                },
+                "medium": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160828_medium.jpg",
+                    "width": "999",
+                    "height": "665",
+                    "size": "medium"
+                },
+                "image": {
+                    "src": "\/images\/menlo-bed-180x200-cm-p37429-160828_image.jpg",
+                    "width": "1500",
+                    "height": "1000",
+                    "size": "image"
+                }
+            },
+            "src_set": "\/images\/menlo-bed-180x200-cm-p37429-160828_thumb.jpg 411w, \/images\/menlo-bed-180x200-cm-p37429-160828_thumbmini.jpg 186w, \/images\/menlo-bed-180x200-cm-p37429-160828_thumbmicro.jpg 96w, \/images\/menlo-bed-180x200-cm-p37429-160828_medium.jpg 999w, \/images\/menlo-bed-180x200-cm-p37429-160828_image.jpg 1500w",
+            "index": "6"
+        }
+    ],
+    "delivery_info": [],
+    "size_guide": "<p class=\"mb-4\">Please contact us for sizing information<\/p>",
+    "stock_level_message": "10+ available",
+    "description": "<p class=\"mb-4\">MENLO BED 180X200 CM<\/p>\n<p class=\"mb-4\"><strong>Dimensions<\/strong><\/p>\n<p class=\"mb-4\"><strong>1 - Bed 180x200 Cm<\/strong> \u00a0\u00a0 222 cm L x 205 cm W x 112 cm H<\/p>",
+    "summary": "<ul class=\"list-disc list-inside mb-4\"><li class=\"mb-1\"><strong>Material: <\/strong>Fabric<\/li>\n<li class=\"mb-1\"><strong>Secondary Material: <\/strong>Wood<\/li>\n<li class=\"mb-1\"><strong>Color: <\/strong> Beige<\/li>\n<li class=\"mb-1\"><strong>Features: <\/strong> Panel<\/li>\n<li class=\"mb-1\"><strong>Mattress Size: <\/strong> 180X200 CM<\/li>\n<li class=\"mb-1\"><strong>Weight(KG): <\/strong> 69<\/li>\n<li class=\"mb-1\"><strong>CBM: <\/strong> 0.61<\/li>\n<li class=\"mb-1\"><strong>Care Instruction: <\/strong> Clean with a duster or vacuum lightly using the soft brush attachment.<\/li>\n<\/ul>",
+    "media_view": null,
+    "has_media": false,
+    "image_360": "",
+    "videos": [],
+    "custom_stock_message": {
+        "message": null,
+        "stock_text": "In Stock",
+        "stock_class": "text-success"
+    },
+    "add_to_basket_text": "Add to Basket",
+    "product_specifications": [],
+    "reviews": [],
+    "has_reviews": false,
+    "more_reviews": false,
+    "reviews_json": "[]",
+    "attribute_summary": "",
+    "wishlist": [],
+    "attributes": [],
+    "has_attributes": false,
+    "child_id_attributes": {
+        "37422": {
+            "product_id": "37422"
+        }
+    },
+    "current_price": {
+        "value": "1,995\u00a0AED",
+        "numeric": 1995,
+        "numeric_master": 1995,
+        "numeric_item_master": 1995,
+        "currency_code": "AED",
+        "label": null
+    },
+    "regular_price": {
+        "value": "2,850\u00a0AED",
+        "numeric": 2850,
+        "numeric_master": "2850",
+        "numeric_item_master": 2850,
+        "currency_code": "AED",
+        "label": null
+    },
+    "discount_value": {
+        "label": "Save",
+        "value": "855\u00a0AED"
+    },
+    "downloads": [],
+    "error": false,
+    "has_swatches": false
+}
+
+// <amp-state id="product">

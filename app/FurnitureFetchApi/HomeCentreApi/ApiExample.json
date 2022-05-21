@@ -1,0 +1,46 @@
+//https: //iba79mx5ck-3.algolianet.com/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(3.35.1)%3B%20Browser%20(lite)%3B%20react%20(16.9.0)%3B%20react-instantsearch%20(5.7.0)%3B%20JS%20Helper%20(2.28.0)&x-algolia-application-id=IBA79MX5CK&x-algolia-api-key=ef32e72341e03c30f9d18405f046f8ee
+{
+    "requests": [{
+        "indexName": "01live_muae_product_list",
+        "params": "query
+        hitsPerPage = 36
+        maxValuesPerFacet = NaN
+        page = 0
+        highlightPreTag = < ais - highlight - 0000000000 >
+        highlightPostTag = < /ais-highlight-0000000000>
+        clickAnalytics = true
+        filters = (field_category_name.en.lvl0: "Furniture")
+        ruleContexts = [
+            "furniture"
+        ]
+        optionalFilters = null
+        facets = [
+            "final_price.en",
+            "attr_rkj_division.en",
+            "attr_sel_class.en",
+            "attr_sel_depa.en",
+            "attr_size.en",
+            "attr_line.en",
+            "attr_gender.en",
+            "attr_product_collection.en",
+            "attr_color_family.en.value",
+            "attr_product_brand.en",
+            "field_acq_promotion_label.en.web",
+            "field_category.en"
+        ]
+        tagFilters = "
+    }]
+}
+
+
+curl "https://iba79mx5ck-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia" % "20for" % "20JavaScript" % "20(3.35.1)" % "3B" % "20Browser" % "20(lite)" % "3B" % "20react" % "20(16.9.0)" % "3B" % "20react-instantsearch" % "20(5.7.0)" % "3B" % "20JS" % "20Helper" % "20(2.28.0)&x-algolia-application-id=IBA79MX5CK&x-algolia-api-key=ef32e72341e03c30f9d18405f046f8ee" - X POST - H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0" - H "Accept: application/json" - H "Accept-Language: en-US,en;q=0.5" - H "Accept-Encoding: gzip, deflate, br" - H "Referer: https://www.muji.ae/" - H "content-type: application/x-www-form-urlencoded" - H "Origin: https://www.muji.ae" - H "Connection: keep-alive" - H "Sec-Fetch-Dest: empty" - H "Sec-Fetch-Mode: no-cors" - H "Sec-Fetch-Site: cross-site" - H "Pragma: no-cache" - H "Cache-Control: no-cache"--data - raw "{"
+"requests"
+":[{"
+"indexName"
+":"
+"01live_muae_product_list"
+","
+"params"
+":"
+"query=&hitsPerPage=36&maxValuesPerFacet=NaN&page=0&highlightPreTag=" % "3Cais-highlight-0000000000" % "3E&highlightPostTag=" % "3C" % "2Fais-highlight-0000000000" % "3E&clickAnalytics=true&filters=(field_category_name.en.lvl0" % "3A" % "20" % "22Furniture" % "22)&ruleContexts=" % "5B" % "22furniture" % "22" % "5D&optionalFilters=null&facets=" % "5B" % "22final_price.en" % "22" % "2C" % "22attr_rkj_division.en" % "22" % "2C" % "22attr_sel_class.en" % "22" % "2C" % "22attr_sel_depa.en" % "22" % "2C" % "22attr_size.en" % "22" % "2C" % "22attr_line.en" % "22" % "2C" % "22attr_gender.en" % "22" % "2C" % "22attr_product_collection.en" % "22" % "2C" % "22attr_color_family.en.value" % "22" % "2C" % "22attr_product_brand.en" % "22" % "2C" % "22field_acq_promotion_label.en.web" % "22" % "2C" % "22field_category.en" % "22" % "5D&tagFilters="
+"}]}"

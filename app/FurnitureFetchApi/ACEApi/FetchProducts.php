@@ -1,0 +1,25 @@
+<?php
+
+namespace App\FurnitureFetchApi\ACEApi;
+use App\FurnitureFetchApi\HandleFurnitureRequest;
+use App\FurnitureFetchApi\InterfaceFurnitureApi\FurnitureProducts as FurnitureProducts;
+class FetchProducts extends HandleFurnitureRequest implements FurnitureProducts{
+    public $endpoint = "https://jae17ad3eu-3.algolianet.com/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.10.3)%3B%20Browser%20(lite)%3B%20JS%20Helper%20(3.5.4)%3B%20react%20(17.0.2)%3B%20react-instantsearch%20(6.12.0)&x-algolia-api-key=ad34a99a5caca7979d9f3ba5b3f1ef4a&x-algolia-application-id=JAE17AD3EU";
+    public function __construct(){
+        $body_json = '{"requests":[{"indexName":"mozanta_ace_product_ae","params":"highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=true&analyticsTags=%5B%22desktop%22%2C%22anonymous%22%2C%22ae%22%2C%22en%22%5D&userToken=0&query=&page=0&maxValuesPerFacet=30&hitsPerPage=24&facets=%5B%22brand.name.en%22%2C%22pricing.sale_price%22%2C%22categories.en.lvl0%22%2C%22categories.en.lvl1%22%2C%22categories.en.lvl2%22%5D&tagFilters=&facetFilters=%5B%5B%22categories.en.lvl1%3AHomeware%20%26%20Furniture%20%3E%20Home%20Furniture%22%5D%5D"},{"indexName":"mozanta_ace_product_ae","params":"highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=false&analyticsTags=%5B%22desktop%22%2C%22anonymous%22%2C%22ae%22%2C%22en%22%5D&userToken=0&query=&page=0&maxValuesPerFacet=30&hitsPerPage=1&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&facets=%5B%22categories.en.lvl0%22%2C%22categories.en.lvl1%22%5D"},{"indexName":"mozanta_ace_product_ae","params":"highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=false&analyticsTags=%5B%22desktop%22%2C%22anonymous%22%2C%22ae%22%2C%22en%22%5D&userToken=0&query=&page=0&maxValuesPerFacet=30&hitsPerPage=1&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&facets=%5B%22categories.en.lvl2%22%5D"}]}';
+        $this->resolve_api($json = true,$params = "products",$type = "post",$body = $body_json);
+    }
+
+    public function get_page_info(){
+        return $this->results ? $this->results['products']['results'][0]['nbPages'] : [];
+    }
+
+    public function get_attributes(){
+        return $this->results ? $this->results['products']['data']['products']['attributes'] : [];
+    }
+
+    public function get_slugs(){
+        $slugs = $this->results ? $this->results['products']['results'][0]['hits'] : [];
+        return $slugs;
+    }
+}

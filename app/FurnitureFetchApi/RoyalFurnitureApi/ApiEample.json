@@ -1,0 +1,1861 @@
+[{
+        "id": 36560,
+        "date": "2022-04-17T12:59:49",
+        "date_gmt": "2022-04-17T08:59:49",
+        "guid": {
+            "rendered": "https://alhuzaifa.com/?post_type=product&#038;p=36560"
+        },
+        "modified": "2022-04-17T13:04:25",
+        "modified_gmt": "2022-04-17T09:04:25",
+        "slug": "michela-console-vctoria-marble",
+        "status": "publish",
+        "type": "product",
+        "link": "https://alhuzaifa.com/shop-categories/michela-console-vctoria-marble/",
+        "title": {
+            "rendered": "MICHELA CONSOLE VCTORIA MARBLE"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "featured_media": 36561,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "spay_email": ""
+        },
+        "jetpack-related-posts": [{
+                "id": 9916,
+                "url": "https://alhuzaifa.com/shop-categories/michela-console/",
+                "url_meta": {
+                    "origin": 36560,
+                    "position": 0
+                },
+                "title": "Michela console",
+                "date": "July 23, 2020",
+                "format": false,
+                "excerpt": "It’s taken thousands of years to create this wild play of white and color streaks in black marble. Refined, yet raw. Polished, yet primal. The hand-contoured walnut base mirrors a wave of energy frozen in time. Michela.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2020/07/52-2.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 5371,
+                "url": "https://alhuzaifa.com/shop-categories/michela-coffee-table/",
+                "url_meta": {
+                    "origin": 36560,
+                    "position": 1
+                },
+                "title": "Michela coffee table",
+                "date": "May 23, 2020",
+                "format": false,
+                "excerpt": "It’s taken thousands of years to create this wild play of white and colour streaks in black marble. Refined, yet raw. Polished, yet primal. The hand-contoured walnut base mirrors a wave of energy frozen in time. Michela Coffee, electrified.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2020/05/38-2.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 3392,
+                "url": "https://alhuzaifa.com/shop-categories/michela-dining-table/",
+                "url_meta": {
+                    "origin": 36560,
+                    "position": 2
+                },
+                "title": "MICHELA DINING TABLE",
+                "date": "May 23, 2020",
+                "format": false,
+                "excerpt": "Delivery by 15th July It's taken thousands of years to create this wild play of white and colour streaks in black marble. Refined, yet raw. Polished, yet primal. The hand-contoured walnut base mirrors a wave of energy frozen in time. Michela. Dining, electrified.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2020/05/Table.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 34829,
+                "url": "https://alhuzaifa.com/shop-categories/howard-console-black-marble-top/",
+                "url_meta": {
+                    "origin": 36560,
+                    "position": 3
+                },
+                "title": "Howard console &#8211; black marble top",
+                "date": "February 10, 2022",
+                "format": false,
+                "excerpt": "Of mixed materials and a sculptural stance, Howard Console lends a glamorous statement to your space. What makes this console stand apart is its gorgeous architectural base of walnut wood that gives form to negative space. Finished with richly veined marble and a slim base of brushed gold, Howard creates…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2022/02/howard-console.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 34828,
+                "url": "https://alhuzaifa.com/shop-categories/howard-console-white-marble/",
+                "url_meta": {
+                    "origin": 36560,
+                    "position": 4
+                },
+                "title": "Howard console &#8211; white marble",
+                "date": "February 10, 2022",
+                "format": false,
+                "excerpt": "Delivery by 30th August Of mixed materials and a sculptural stance, Howard Console lends a glamorous statement to your space. What makes this console stand apart is its gorgeous architectural base of walnut wood that gives form to negative space. Finished with richly veined marble and a slim base of…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2022/02/HOWARD-CONSOLE-TABLE-WHITE-MARBLE-TOP.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 22201,
+                "url": "https://alhuzaifa.com/shop-categories/howard-console/",
+                "url_meta": {
+                    "origin": 36560,
+                    "position": 5
+                },
+                "title": "Howard console &#8211; black marble",
+                "date": "May 22, 2021",
+                "format": false,
+                "excerpt": "Of mixed materials and a sculptural stance, Howard Console lends a glamorous statement to your space. What makes this console stand apart is its gorgeous architectural base of walnut wood that gives form to negative space. Finished with richly veined marble and a slim base of brushed gold, Howard creates…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/05/HOWARD-2.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            }
+        ],
+        "_links": {
+            "self": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product/36560"
+            }],
+            "collection": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product"
+            }],
+            "about": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/types/product"
+            }],
+            "replies": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/comments?post=36560"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media/36561"
+            }],
+            "wp:attachment": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media?parent=36560"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 35949,
+        "date": "2022-03-24T17:41:20",
+        "date_gmt": "2022-03-24T13:41:20",
+        "guid": {
+            "rendered": "https://alhuzaifa.com/?post_type=product&#038;p=35949"
+        },
+        "modified": "2022-03-28T12:59:38",
+        "modified_gmt": "2022-03-28T08:59:38",
+        "slug": "belisima-night-stand-2",
+        "status": "publish",
+        "type": "product",
+        "link": "https://alhuzaifa.com/shop-categories/belisima-night-stand-2/",
+        "title": {
+            "rendered": "Belisima night stand"
+        },
+        "content": {
+            "rendered": "<ul>\n<li>Full grain leather</li>\n<li>Solid wood sticking</li>\n<li>#201 Grade stainless steel base</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Create a space of sanctuary, a serene retreat at the end of a long day. From queen and king-sized beds to night tables, benches and dressers, explore bedroom sets or a curated mix that is uniquely you in a range that strikes the perfect balance of style, comfort and functionality.</p>\n",
+            "protected": false
+        },
+        "featured_media": 35950,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "spay_email": ""
+        },
+        "jetpack-related-posts": [{
+                "id": 33299,
+                "url": "https://alhuzaifa.com/shop-categories/night-sky-painting/",
+                "url_meta": {
+                    "origin": 35949,
+                    "position": 0
+                },
+                "title": "Night sky painting",
+                "date": "January 11, 2022",
+                "format": false,
+                "excerpt": "The Night Sky Painting articulates contemporary and minimalist design. A large scale avant-garde canvas, it creates a contemplative statement of style evoking a sense of fluidity and freedom in its layered hues and textured strokes. Vibrant, textural and riveting.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2022/01/night-sky-painting-1.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 27136,
+                "url": "https://alhuzaifa.com/shop-categories/stacy-night-stand/",
+                "url_meta": {
+                    "origin": 35949,
+                    "position": 1
+                },
+                "title": "Stacy night stand",
+                "date": "December 1, 2021",
+                "format": false,
+                "excerpt": "Delivery by 15th July Clean and linear in design, the Stacy Night Stand boasts a waterfall frame that showcases the light ash wood natural grain and texture. With an airy open frame, this handsome night stand features an open shelf, slim slide out compartment and roomy storage drawer with an…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/10/STACY-BEDROOM-SET-2.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 21169,
+                "url": "https://alhuzaifa.com/shop-categories/jackie-night-stand/",
+                "url_meta": {
+                    "origin": 35949,
+                    "position": 2
+                },
+                "title": "Jackie night stand",
+                "date": "May 4, 2021",
+                "format": false,
+                "excerpt": "The epitome of mid-century modern timelessness, the Jackie Night Stand shapes uncluttered organic form and functional design. This bedside table is all about the grain. Crafted from warm walnut wood with cathedral arches, it’s juxtaposed with a stark white glass counter top in a minimalist fashion that brings understated elegance…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/05/JACKIE-2.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 28814,
+                "url": "https://alhuzaifa.com/shop-categories/travolta-night-stand-left/",
+                "url_meta": {
+                    "origin": 35949,
+                    "position": 3
+                },
+                "title": "Travolta night stand- left",
+                "date": "November 21, 2021",
+                "format": false,
+                "excerpt": "Create a space of sanctuary, a serene retreat at the end of a long day. From queen and king-sized beds to night tables, benches and dressers, explore bedroom sets or a curated mix that is uniquely you in a range that strikes the perfect balance of style, comfort and functionality.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/11/TRAVOLTA-NIGHT-STAND-1.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 30859,
+                "url": "https://alhuzaifa.com/shop-categories/belisima-night-stand/",
+                "url_meta": {
+                    "origin": 35949,
+                    "position": 4
+                },
+                "title": "Belisima night stand",
+                "date": "December 4, 2021",
+                "format": false,
+                "excerpt": "Create a space of sanctuary, a serene retreat at the end of a long day. From queen and king-sized beds to night tables, benches and dressers, explore bedroom sets or a curated mix that is uniquely you in a range that strikes the perfect balance of style, comfort and functionality.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/12/BELISIMA-NIGHT-STAND.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 33882,
+                "url": "https://alhuzaifa.com/shop-categories/cedar-night-stand/",
+                "url_meta": {
+                    "origin": 35949,
+                    "position": 5
+                },
+                "title": "Cedar night stand",
+                "date": "March 24, 2022",
+                "format": false,
+                "excerpt": "Create a space of sanctuary, a serene retreat at the end of a long day. From queen and king-sized beds to night tables, benches and dressers, explore bedroom sets or a curated mix that is uniquely you in a range that strikes the perfect balance of style, comfort and functionality.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2022/02/CEDAR-NIGHT-STAND-TABLE-DARK-CHOCO-MATT-1.png?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            }
+        ],
+        "_links": {
+            "self": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product/35949"
+            }],
+            "collection": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product"
+            }],
+            "about": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/types/product"
+            }],
+            "replies": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/comments?post=35949"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media/35950"
+            }],
+            "wp:attachment": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media?parent=35949"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 33882,
+        "date": "2022-03-24T15:22:45",
+        "date_gmt": "2022-03-24T11:22:45",
+        "guid": {
+            "rendered": "https://alhuzaifa.com/?post_type=product&#038;p=33882"
+        },
+        "modified": "2022-03-28T13:17:11",
+        "modified_gmt": "2022-03-28T09:17:11",
+        "slug": "cedar-night-stand",
+        "status": "publish",
+        "type": "product",
+        "link": "https://alhuzaifa.com/shop-categories/cedar-night-stand/",
+        "title": {
+            "rendered": "Cedar night stand"
+        },
+        "content": {
+            "rendered": "<ul>\n<li>e1 grade mdf european standard</li>\n<li>high glossy lacquer processed by pu solution</li>\n<li>7mm thickness wood veneer from north america</li>\n<li>metal part in stainless steel with titanium finish</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Create a space of sanctuary, a serene retreat at the end of a long day. From queen and king-sized beds to night tables, benches and dressers, explore bedroom sets or a curated mix that is uniquely you in a range that strikes the perfect balance of style, comfort and functionality.</p>\n",
+            "protected": false
+        },
+        "featured_media": 35936,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "spay_email": ""
+        },
+        "jetpack-related-posts": [{
+                "id": 33837,
+                "url": "https://alhuzaifa.com/shop-categories/dora-night-stand/",
+                "url_meta": {
+                    "origin": 33882,
+                    "position": 0
+                },
+                "title": "Dora night stand",
+                "date": "March 24, 2022",
+                "format": false,
+                "excerpt": "Create a space of sanctuary, a serene retreat at the end of a long day. From queen and king-sized beds to night tables, benches and dressers, explore bedroom sets or a curated mix that is uniquely you in a range that strikes the perfect balance of style, comfort and functionality.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2022/02/DORA-NIGHT-STAND-TABLE-BROWN-WALNUT-1.png?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 27130,
+                "url": "https://alhuzaifa.com/shop-categories/glenn-night-stand/",
+                "url_meta": {
+                    "origin": 33882,
+                    "position": 1
+                },
+                "title": "Glenn night stand",
+                "date": "October 29, 2021",
+                "format": false,
+                "excerpt": "Low slung and on trend, the Glenn Night Stand is defined by clean geometry and material contrast. Sculpted from richly grained ash wood and offset with the glimmer of brass plated accents, the nightstand includes a single drawer for essential bedside storage.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/10/GLENN-3.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 27136,
+                "url": "https://alhuzaifa.com/shop-categories/stacy-night-stand/",
+                "url_meta": {
+                    "origin": 33882,
+                    "position": 2
+                },
+                "title": "Stacy night stand",
+                "date": "December 1, 2021",
+                "format": false,
+                "excerpt": "Delivery by 15th July Clean and linear in design, the Stacy Night Stand boasts a waterfall frame that showcases the light ash wood natural grain and texture. With an airy open frame, this handsome night stand features an open shelf, slim slide out compartment and roomy storage drawer with an…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/10/STACY-BEDROOM-SET-2.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 21169,
+                "url": "https://alhuzaifa.com/shop-categories/jackie-night-stand/",
+                "url_meta": {
+                    "origin": 33882,
+                    "position": 3
+                },
+                "title": "Jackie night stand",
+                "date": "May 4, 2021",
+                "format": false,
+                "excerpt": "The epitome of mid-century modern timelessness, the Jackie Night Stand shapes uncluttered organic form and functional design. This bedside table is all about the grain. Crafted from warm walnut wood with cathedral arches, it’s juxtaposed with a stark white glass counter top in a minimalist fashion that brings understated elegance…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/05/JACKIE-2.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 28814,
+                "url": "https://alhuzaifa.com/shop-categories/travolta-night-stand-left/",
+                "url_meta": {
+                    "origin": 33882,
+                    "position": 4
+                },
+                "title": "Travolta night stand- left",
+                "date": "November 21, 2021",
+                "format": false,
+                "excerpt": "Create a space of sanctuary, a serene retreat at the end of a long day. From queen and king-sized beds to night tables, benches and dressers, explore bedroom sets or a curated mix that is uniquely you in a range that strikes the perfect balance of style, comfort and functionality.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/11/TRAVOLTA-NIGHT-STAND-1.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 30859,
+                "url": "https://alhuzaifa.com/shop-categories/belisima-night-stand/",
+                "url_meta": {
+                    "origin": 33882,
+                    "position": 5
+                },
+                "title": "Belisima night stand",
+                "date": "December 4, 2021",
+                "format": false,
+                "excerpt": "Create a space of sanctuary, a serene retreat at the end of a long day. From queen and king-sized beds to night tables, benches and dressers, explore bedroom sets or a curated mix that is uniquely you in a range that strikes the perfect balance of style, comfort and functionality.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/12/BELISIMA-NIGHT-STAND.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            }
+        ],
+        "_links": {
+            "self": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product/33882"
+            }],
+            "collection": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product"
+            }],
+            "about": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/types/product"
+            }],
+            "replies": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/comments?post=33882"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media/35936"
+            }],
+            "wp:attachment": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media?parent=33882"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 33837,
+        "date": "2022-03-24T13:03:19",
+        "date_gmt": "2022-03-24T09:03:19",
+        "guid": {
+            "rendered": "https://alhuzaifa.com/?post_type=product&#038;p=33837"
+        },
+        "modified": "2022-04-27T20:54:46",
+        "modified_gmt": "2022-04-27T16:54:46",
+        "slug": "dora-night-stand",
+        "status": "publish",
+        "type": "product",
+        "link": "https://alhuzaifa.com/shop-categories/dora-night-stand/",
+        "title": {
+            "rendered": "Dora night stand"
+        },
+        "content": {
+            "rendered": "<ul>\n<li>metal part in stainless steel with titanium finish</li>\n<li>7mm thickness wood veneer from north america</li>\n<li>e1 grade mdf european standard</li>\n<li>high glossy lacquer processed by pu solution</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Create a space of sanctuary, a serene retreat at the end of a long day. From queen and king-sized beds to night tables, benches and dressers, explore bedroom sets or a curated mix that is uniquely you in a range that strikes the perfect balance of style, comfort and functionality.</p>\n",
+            "protected": false
+        },
+        "featured_media": 35924,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "spay_email": ""
+        },
+        "jetpack-related-posts": [{
+                "id": 33882,
+                "url": "https://alhuzaifa.com/shop-categories/cedar-night-stand/",
+                "url_meta": {
+                    "origin": 33837,
+                    "position": 0
+                },
+                "title": "Cedar night stand",
+                "date": "March 24, 2022",
+                "format": false,
+                "excerpt": "Create a space of sanctuary, a serene retreat at the end of a long day. From queen and king-sized beds to night tables, benches and dressers, explore bedroom sets or a curated mix that is uniquely you in a range that strikes the perfect balance of style, comfort and functionality.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2022/02/CEDAR-NIGHT-STAND-TABLE-DARK-CHOCO-MATT-1.png?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 27130,
+                "url": "https://alhuzaifa.com/shop-categories/glenn-night-stand/",
+                "url_meta": {
+                    "origin": 33837,
+                    "position": 1
+                },
+                "title": "Glenn night stand",
+                "date": "October 29, 2021",
+                "format": false,
+                "excerpt": "Low slung and on trend, the Glenn Night Stand is defined by clean geometry and material contrast. Sculpted from richly grained ash wood and offset with the glimmer of brass plated accents, the nightstand includes a single drawer for essential bedside storage.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/10/GLENN-3.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 27136,
+                "url": "https://alhuzaifa.com/shop-categories/stacy-night-stand/",
+                "url_meta": {
+                    "origin": 33837,
+                    "position": 2
+                },
+                "title": "Stacy night stand",
+                "date": "December 1, 2021",
+                "format": false,
+                "excerpt": "Delivery by 15th July Clean and linear in design, the Stacy Night Stand boasts a waterfall frame that showcases the light ash wood natural grain and texture. With an airy open frame, this handsome night stand features an open shelf, slim slide out compartment and roomy storage drawer with an…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/10/STACY-BEDROOM-SET-2.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 21169,
+                "url": "https://alhuzaifa.com/shop-categories/jackie-night-stand/",
+                "url_meta": {
+                    "origin": 33837,
+                    "position": 3
+                },
+                "title": "Jackie night stand",
+                "date": "May 4, 2021",
+                "format": false,
+                "excerpt": "The epitome of mid-century modern timelessness, the Jackie Night Stand shapes uncluttered organic form and functional design. This bedside table is all about the grain. Crafted from warm walnut wood with cathedral arches, it’s juxtaposed with a stark white glass counter top in a minimalist fashion that brings understated elegance…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/05/JACKIE-2.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 28814,
+                "url": "https://alhuzaifa.com/shop-categories/travolta-night-stand-left/",
+                "url_meta": {
+                    "origin": 33837,
+                    "position": 4
+                },
+                "title": "Travolta night stand- left",
+                "date": "November 21, 2021",
+                "format": false,
+                "excerpt": "Create a space of sanctuary, a serene retreat at the end of a long day. From queen and king-sized beds to night tables, benches and dressers, explore bedroom sets or a curated mix that is uniquely you in a range that strikes the perfect balance of style, comfort and functionality.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/11/TRAVOLTA-NIGHT-STAND-1.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 30859,
+                "url": "https://alhuzaifa.com/shop-categories/belisima-night-stand/",
+                "url_meta": {
+                    "origin": 33837,
+                    "position": 5
+                },
+                "title": "Belisima night stand",
+                "date": "December 4, 2021",
+                "format": false,
+                "excerpt": "Create a space of sanctuary, a serene retreat at the end of a long day. From queen and king-sized beds to night tables, benches and dressers, explore bedroom sets or a curated mix that is uniquely you in a range that strikes the perfect balance of style, comfort and functionality.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/12/BELISIMA-NIGHT-STAND.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            }
+        ],
+        "_links": {
+            "self": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product/33837"
+            }],
+            "collection": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product"
+            }],
+            "about": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/types/product"
+            }],
+            "replies": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/comments?post=33837"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media/35924"
+            }],
+            "wp:attachment": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media?parent=33837"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 35779,
+        "date": "2022-03-23T16:50:01",
+        "date_gmt": "2022-03-23T12:50:01",
+        "guid": {
+            "rendered": "https://alhuzaifa.com/?post_type=product&#038;p=35779"
+        },
+        "modified": "2022-03-23T16:50:01",
+        "modified_gmt": "2022-03-23T12:50:01",
+        "slug": "hayden-sofa-set",
+        "status": "publish",
+        "type": "product",
+        "link": "https://alhuzaifa.com/shop-categories/hayden-sofa-set/",
+        "title": {
+            "rendered": "Hayden sofa set"
+        },
+        "content": {
+            "rendered": "<ul>\n<li>Inner frame : pinewood + plywood</li>\n<li>Upholstery with 100% polyester fabric</li>\n<li>Legs : grade 304# stainless steel in brushed gold</li>\n<li>Sponge : 35 height density , 15cm thickness</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Classic and contemporary, sectionals and standalones, luxe leather and high-performance upholstery – with sofas for every sense of style, find a world of comfortable choices to suit your space and aesthetic.</p>\n",
+            "protected": false
+        },
+        "featured_media": 35919,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "spay_email": ""
+        },
+        "jetpack-related-posts": [{
+                "id": 35674,
+                "url": "https://alhuzaifa.com/shop-categories/berilab/",
+                "url_meta": {
+                    "origin": 35779,
+                    "position": 0
+                },
+                "title": "Nicolo light brown",
+                "date": "March 5, 2022",
+                "format": false,
+                "excerpt": "Classic and contemporary, sectionals and standalones, luxe leather and high-performance upholstery – with sofas for every sense of style, find a world of comfortable choices to suit your space and aesthetic.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/04/NICOLO-2.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 30647,
+                "url": "https://alhuzaifa.com/shop-categories/maira-sofa-set/",
+                "url_meta": {
+                    "origin": 35779,
+                    "position": 1
+                },
+                "title": "Maira sofa set",
+                "date": "December 1, 2021",
+                "format": false,
+                "excerpt": "A vision in ivory and gold, the Maira Sofa Set defines all expectations. A sculptural take on the staple sofa, this sofa set assumes a chic stance in tailored plush upholstery, framed in the glow of gold. Featuring supportive low seating and goose down throw cushions, Maira sculpts a stylish…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/12/MAIRA-SOFA-SET-4.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 34498,
+                "url": "https://alhuzaifa.com/shop-categories/adona-sofa-set/",
+                "url_meta": {
+                    "origin": 35779,
+                    "position": 2
+                },
+                "title": "Adona sofa set",
+                "date": "February 8, 2022",
+                "format": false,
+                "excerpt": "The Adona sofa is crafted in pinewood for exceptional support and comfort. The modern design comes in three, two, and one-seater that boasts a cozy upholstery with a grandeur aesthetic and striking brushed gold detailing. This piece blends trendy design and classic charisma for a broad spectrum of interiors.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2022/02/adona-sofa-set-2-1.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 34610,
+                "url": "https://alhuzaifa.com/shop-categories/ornetta-sofa-set/",
+                "url_meta": {
+                    "origin": 35779,
+                    "position": 3
+                },
+                "title": "Ornetta sofa set",
+                "date": "February 8, 2022",
+                "format": false,
+                "excerpt": "Classic and contemporary, sectionals and standalones, luxe leather and high-performance upholstery – with sofas for every sense of style, find a world of comfortable choices to suit your space and aesthetic.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2022/02/ORNETTA-SOFA-SET.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 30646,
+                "url": "https://alhuzaifa.com/shop-categories/ansel-sofa-set/",
+                "url_meta": {
+                    "origin": 35779,
+                    "position": 4
+                },
+                "title": "Ansel sofa set",
+                "date": "December 9, 2021",
+                "format": false,
+                "excerpt": "Classic and contemporary, sectionals and standalones, luxe leather and high-performance upholstery – with sofas for every sense of style, find a world of comfortable choices to suit your space and aesthetic.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/12/ANSEL-SOFA-SET.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 35778,
+                "url": "https://alhuzaifa.com/shop-categories/malik-sofa-set/",
+                "url_meta": {
+                    "origin": 35779,
+                    "position": 5
+                },
+                "title": "Malik sofa set",
+                "date": "March 14, 2022",
+                "format": false,
+                "excerpt": "Classic and contemporary, sectionals and standalones, luxe leather and high-performance upholstery – with sofas for every sense of style, find a world of comfortable choices to suit your space and aesthetic.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2022/03/MALIK-SOFA-SET-1.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            }
+        ],
+        "_links": {
+            "self": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product/35779"
+            }],
+            "collection": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product"
+            }],
+            "about": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/types/product"
+            }],
+            "replies": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/comments?post=35779"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media/35919"
+            }],
+            "wp:attachment": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media?parent=35779"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 35780,
+        "date": "2022-03-14T18:14:15",
+        "date_gmt": "2022-03-14T14:14:15",
+        "guid": {
+            "rendered": "https://alhuzaifa.com/?post_type=product&#038;p=35780"
+        },
+        "modified": "2022-03-21T13:05:44",
+        "modified_gmt": "2022-03-21T09:05:44",
+        "slug": "empress-sofa-set",
+        "status": "publish",
+        "type": "product",
+        "link": "https://alhuzaifa.com/shop-categories/empress-sofa-set/",
+        "title": {
+            "rendered": "Empress sofa set"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Classic and contemporary, sectionals and standalones, luxe leather and high-performance upholstery – with sofas for every sense of style, find a world of comfortable choices to suit your space and aesthetic.</p>\n",
+            "protected": false
+        },
+        "featured_media": 35789,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "spay_email": ""
+        },
+        "jetpack-related-posts": [{
+                "id": 33719,
+                "url": "https://alhuzaifa.com/shop-categories/kenjiro-sofa-set-brown/",
+                "url_meta": {
+                    "origin": 35780,
+                    "position": 0
+                },
+                "title": "Kenjiro sofa set &#8211; brown",
+                "date": "February 4, 2022",
+                "format": false,
+                "excerpt": "The Kenjiro Sofa set infuses an additional opulence characteristic into our iconic two & three seater sofa range. This comfortable upholstered sofa is created with a medley of pine & eucalyptus wood with elegantly finished made to match legs that make it both impressive & timeless.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2022/02/kenjiro-2.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 30647,
+                "url": "https://alhuzaifa.com/shop-categories/maira-sofa-set/",
+                "url_meta": {
+                    "origin": 35780,
+                    "position": 1
+                },
+                "title": "Maira sofa set",
+                "date": "December 1, 2021",
+                "format": false,
+                "excerpt": "A vision in ivory and gold, the Maira Sofa Set defines all expectations. A sculptural take on the staple sofa, this sofa set assumes a chic stance in tailored plush upholstery, framed in the glow of gold. Featuring supportive low seating and goose down throw cushions, Maira sculpts a stylish…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/12/MAIRA-SOFA-SET-4.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 5149,
+                "url": "https://alhuzaifa.com/shop-categories/new-quatro-sofa-set/",
+                "url_meta": {
+                    "origin": 35780,
+                    "position": 2
+                },
+                "title": "New quatro sofa set light beige",
+                "date": "May 23, 2020",
+                "format": false,
+                "excerpt": "Delivery by 30th June Flexibility is a wonderful thing. Quatro sofa seats adapt to your need of the moment with extendable arms and retractable, tiltable backs, letting you configure your seating around as you please. Walnut wood legs support the sofa’s plush, ultra-comfortable seats, bringing modern elegance into your living…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2020/05/al-huzafia-july-616698-1.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 27147,
+                "url": "https://alhuzaifa.com/shop-categories/prima-corner-sofa/",
+                "url_meta": {
+                    "origin": 35780,
+                    "position": 3
+                },
+                "title": "Prima corner sofa",
+                "date": "October 29, 2021",
+                "format": false,
+                "excerpt": "Contemporary, clean-lined and casual, the Prima Corner Sofa is generously proportioned for extra seating space or stretch-out comfort. The left-arm sofa sits deep and low with an easy-going attitude. Upholstered in a linen blend, Prima’s silhouette is a nod to the conventional with design detail that gives it a modern…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/10/PRIMA-SOFA.jpeg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 4938,
+                "url": "https://alhuzaifa.com/shop-categories/lucinda-sofa-set/",
+                "url_meta": {
+                    "origin": 35780,
+                    "position": 4
+                },
+                "title": "Lucinda sofa set",
+                "date": "May 23, 2020",
+                "format": false,
+                "excerpt": "Gunmetal finished bands snap around the back of this sofa and vertically down the sides, holding together the sumptuous form of the Lucinda sofa. Sink in to enjoy the luxury of soft, deep chenille as the backrest wraps around supportively.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/11/LUCINDA-SOFA-SET-3.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 24465,
+                "url": "https://alhuzaifa.com/shop-categories/audrey-sofa-set-white-blue/",
+                "url_meta": {
+                    "origin": 35780,
+                    "position": 5
+                },
+                "title": "Audrey sofa set white blue",
+                "date": "July 26, 2021",
+                "format": false,
+                "excerpt": "Mid-century modern makes its way back to the mainstream in the streamlined Audrey Sofa Set. Soft lines curve a snug-fit sofa in pure white harmonized with dark blue cushions to match the expertly tailored single seater. This warm and livable vintage-inspired silhouette sets trends with classic, enduring appeal.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/07/AUDREY-7.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            }
+        ],
+        "_links": {
+            "self": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product/35780"
+            }],
+            "collection": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product"
+            }],
+            "about": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/types/product"
+            }],
+            "replies": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/comments?post=35780"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media/35789"
+            }],
+            "wp:attachment": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media?parent=35780"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 35778,
+        "date": "2022-03-14T18:00:55",
+        "date_gmt": "2022-03-14T14:00:55",
+        "guid": {
+            "rendered": "https://alhuzaifa.com/?post_type=product&#038;p=35778"
+        },
+        "modified": "2022-04-28T20:28:37",
+        "modified_gmt": "2022-04-28T16:28:37",
+        "slug": "malik-sofa-set",
+        "status": "publish",
+        "type": "product",
+        "link": "https://alhuzaifa.com/shop-categories/malik-sofa-set/",
+        "title": {
+            "rendered": "Malik sofa set"
+        },
+        "content": {
+            "rendered": "<ul>\n<li>Inner frame : pinewood + plywood</li>\n<li>Upholstery with 100% polyester fabric</li>\n<li>Legs : grade 304# stainless steel in brushed gold</li>\n<li>Sponge : 35 height density , 15cm thickness</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Classic and contemporary, sectionals and standalones, luxe leather and high-performance upholstery – with sofas for every sense of style, find a world of comfortable choices to suit your space and aesthetic.</p>\n",
+            "protected": false
+        },
+        "featured_media": 35790,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "spay_email": ""
+        },
+        "jetpack-related-posts": [{
+                "id": 35674,
+                "url": "https://alhuzaifa.com/shop-categories/berilab/",
+                "url_meta": {
+                    "origin": 35778,
+                    "position": 0
+                },
+                "title": "Nicolo light brown",
+                "date": "March 5, 2022",
+                "format": false,
+                "excerpt": "Classic and contemporary, sectionals and standalones, luxe leather and high-performance upholstery – with sofas for every sense of style, find a world of comfortable choices to suit your space and aesthetic.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/04/NICOLO-2.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 30647,
+                "url": "https://alhuzaifa.com/shop-categories/maira-sofa-set/",
+                "url_meta": {
+                    "origin": 35778,
+                    "position": 1
+                },
+                "title": "Maira sofa set",
+                "date": "December 1, 2021",
+                "format": false,
+                "excerpt": "A vision in ivory and gold, the Maira Sofa Set defines all expectations. A sculptural take on the staple sofa, this sofa set assumes a chic stance in tailored plush upholstery, framed in the glow of gold. Featuring supportive low seating and goose down throw cushions, Maira sculpts a stylish…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/12/MAIRA-SOFA-SET-4.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 34498,
+                "url": "https://alhuzaifa.com/shop-categories/adona-sofa-set/",
+                "url_meta": {
+                    "origin": 35778,
+                    "position": 2
+                },
+                "title": "Adona sofa set",
+                "date": "February 8, 2022",
+                "format": false,
+                "excerpt": "The Adona sofa is crafted in pinewood for exceptional support and comfort. The modern design comes in three, two, and one-seater that boasts a cozy upholstery with a grandeur aesthetic and striking brushed gold detailing. This piece blends trendy design and classic charisma for a broad spectrum of interiors.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2022/02/adona-sofa-set-2-1.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 34610,
+                "url": "https://alhuzaifa.com/shop-categories/ornetta-sofa-set/",
+                "url_meta": {
+                    "origin": 35778,
+                    "position": 3
+                },
+                "title": "Ornetta sofa set",
+                "date": "February 8, 2022",
+                "format": false,
+                "excerpt": "Classic and contemporary, sectionals and standalones, luxe leather and high-performance upholstery – with sofas for every sense of style, find a world of comfortable choices to suit your space and aesthetic.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2022/02/ORNETTA-SOFA-SET.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 35779,
+                "url": "https://alhuzaifa.com/shop-categories/hayden-sofa-set/",
+                "url_meta": {
+                    "origin": 35778,
+                    "position": 4
+                },
+                "title": "Hayden sofa set",
+                "date": "March 23, 2022",
+                "format": false,
+                "excerpt": "Classic and contemporary, sectionals and standalones, luxe leather and high-performance upholstery – with sofas for every sense of style, find a world of comfortable choices to suit your space and aesthetic.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2022/03/HAYDEN-SOFA.png?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 30646,
+                "url": "https://alhuzaifa.com/shop-categories/ansel-sofa-set/",
+                "url_meta": {
+                    "origin": 35778,
+                    "position": 5
+                },
+                "title": "Ansel sofa set",
+                "date": "December 9, 2021",
+                "format": false,
+                "excerpt": "Classic and contemporary, sectionals and standalones, luxe leather and high-performance upholstery – with sofas for every sense of style, find a world of comfortable choices to suit your space and aesthetic.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/12/ANSEL-SOFA-SET.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            }
+        ],
+        "_links": {
+            "self": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product/35778"
+            }],
+            "collection": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product"
+            }],
+            "about": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/types/product"
+            }],
+            "replies": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/comments?post=35778"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media/35790"
+            }],
+            "wp:attachment": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media?parent=35778"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 35682,
+        "date": "2022-03-05T15:54:02",
+        "date_gmt": "2022-03-05T11:54:02",
+        "guid": {
+            "rendered": "https://alhuzaifa.com/?post_type=product&#038;p=35682"
+        },
+        "modified": "2022-04-15T16:39:54",
+        "modified_gmt": "2022-04-15T12:39:54",
+        "slug": "nordica-bookshelf",
+        "status": "publish",
+        "type": "product",
+        "link": "https://alhuzaifa.com/shop-categories/nordica-bookshelf/",
+        "title": {
+            "rendered": "Nordica bookshelf"
+        },
+        "content": {
+            "rendered": "<ul>\n<li>wood veneer</li>\n<li>304# stainless steel frame in brushed yellow gold</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Maximize your space with versatile and en vogue display and storage pieces. Be inspired by a range of versatile designs that create stylish and efficient space-saving solutions, from bookshelves, consoles and display cabinets to everything in between.</p>\n",
+            "protected": false
+        },
+        "featured_media": 35684,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "spay_email": ""
+        },
+        "jetpack-related-posts": [{
+                "id": 35298,
+                "url": "https://alhuzaifa.com/shop-categories/dali-round-table/",
+                "url_meta": {
+                    "origin": 35682,
+                    "position": 0
+                },
+                "title": "Dali round table",
+                "date": "February 21, 2022",
+                "format": false,
+                "excerpt": "Maximize your space with versatile and en vogue display and storage pieces. Be inspired by a range of versatile designs that create stylish and efficient space-saving solutions, from bookshelves, consoles and display cabinets to everything in between.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2022/02/DALI-ROUND-TABLE-5.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 34848,
+                "url": "https://alhuzaifa.com/shop-categories/margot-dining-chair/",
+                "url_meta": {
+                    "origin": 35682,
+                    "position": 1
+                },
+                "title": "Margot dining chair",
+                "date": "February 10, 2022",
+                "format": false,
+                "excerpt": "Maximize your space with versatile and en vogue display and storage pieces. Be inspired by a range of versatile designs that create stylish and efficient space-saving solutions, from bookshelves, consoles and display cabinets to everything in between.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2022/02/margot-dining-chair-1-1.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 34293,
+                "url": "https://alhuzaifa.com/shop-categories/katherine-mirror/",
+                "url_meta": {
+                    "origin": 35682,
+                    "position": 2
+                },
+                "title": "Katherine mirror",
+                "date": "February 2, 2022",
+                "format": false,
+                "excerpt": "Maximize your space with versatile and en vogue display and storage pieces. Be inspired by a range of versatile designs that create stylish and efficient space-saving solutions, from bookshelves, consoles and display cabinets to everything in between.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/06/KATHERINE.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 3317,
+                "url": "https://alhuzaifa.com/shop-categories/cataleya-display-shelf/",
+                "url_meta": {
+                    "origin": 35682,
+                    "position": 3
+                },
+                "title": "Cataleya display shelf",
+                "date": "May 23, 2020",
+                "format": false,
+                "excerpt": "Maximise your space with versatile and en vogue display and storage pieces. Be inspired by a range of versatile designs that create stylish and efficient space-saving solutions, from bookshelves, consoles and display cabinets to everything in between.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2020/05/CATALEYA-DISPLAY-SHELF.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 28787,
+                "url": "https://alhuzaifa.com/shop-categories/shayla-bookshelf-dark-walnut/",
+                "url_meta": {
+                    "origin": 35682,
+                    "position": 4
+                },
+                "title": "Shayla bookshelf &#8211; dark walnut",
+                "date": "November 21, 2021",
+                "format": false,
+                "excerpt": "Maximise your space with versatile and en vogue display and storage pieces. Be inspired by a range of versatile designs that create stylish and efficient space-saving solutions, from bookshelves, consoles and display cabinets to everything in between.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/11/SHAYLA-BOOKSHELF-DARK-OAK-1.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 28016,
+                "url": "https://alhuzaifa.com/shop-categories/boss-dining-chair/",
+                "url_meta": {
+                    "origin": 35682,
+                    "position": 5
+                },
+                "title": "Boss dining chair",
+                "date": "December 1, 2021",
+                "format": false,
+                "excerpt": "Maximise your space with versatile and en vogue display and storage pieces. Be inspired by a range of versatile designs that create stylish and efficient space-saving solutions, from bookshelves, consoles and display cabinets to everything in between.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/12/BOSS-DINING-CHAIR.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            }
+        ],
+        "_links": {
+            "self": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product/35682"
+            }],
+            "collection": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product"
+            }],
+            "about": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/types/product"
+            }],
+            "replies": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/comments?post=35682"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media/35684"
+            }],
+            "wp:attachment": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media?parent=35682"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 35674,
+        "date": "2022-03-05T15:02:09",
+        "date_gmt": "2022-03-05T11:02:09",
+        "guid": {
+            "rendered": "https://alhuzaifa.com/?post_type=product&#038;p=35674"
+        },
+        "modified": "2022-04-19T10:57:12",
+        "modified_gmt": "2022-04-19T06:57:12",
+        "slug": "berilab",
+        "status": "publish",
+        "type": "product",
+        "link": "https://alhuzaifa.com/shop-categories/berilab/",
+        "title": {
+            "rendered": "Nicolo light brown"
+        },
+        "content": {
+            "rendered": "<ul>\n<li>high density sponge</li>\n<li>upholstery with polyester fabric</li>\n<li>feather (goose down):duck down</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Classic and contemporary, sectionals and standalones, luxe leather and high-performance upholstery – with sofas for every sense of style, find a world of comfortable choices to suit your space and aesthetic.</p>\n",
+            "protected": false
+        },
+        "featured_media": 20111,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "spay_email": ""
+        },
+        "jetpack-related-posts": [{
+                "id": 34591,
+                "url": "https://alhuzaifa.com/shop-categories/calliope-corner-sofa/",
+                "url_meta": {
+                    "origin": 35674,
+                    "position": 0
+                },
+                "title": "Calliope corner sofa",
+                "date": "February 8, 2022",
+                "format": false,
+                "excerpt": "Single chair not included Classic and contemporary, sectionals and standalones, luxe leather and high-performance upholstery – with sofas for every sense of style, find a world of comfortable choices to suit your space and aesthetic.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2022/02/CALLIOPE-CORNER-SOFA.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 30647,
+                "url": "https://alhuzaifa.com/shop-categories/maira-sofa-set/",
+                "url_meta": {
+                    "origin": 35674,
+                    "position": 1
+                },
+                "title": "Maira sofa set",
+                "date": "December 1, 2021",
+                "format": false,
+                "excerpt": "A vision in ivory and gold, the Maira Sofa Set defines all expectations. A sculptural take on the staple sofa, this sofa set assumes a chic stance in tailored plush upholstery, framed in the glow of gold. Featuring supportive low seating and goose down throw cushions, Maira sculpts a stylish…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/12/MAIRA-SOFA-SET-4.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 27969,
+                "url": "https://alhuzaifa.com/shop-categories/jewel-corner-sofa/",
+                "url_meta": {
+                    "origin": 35674,
+                    "position": 2
+                },
+                "title": "Jewel Corner Sofa",
+                "date": "December 1, 2021",
+                "format": false,
+                "excerpt": "Delivery by 30th July Crisp and contemporary, the Jewel Corner Sofa is all about exceptional design in every last detail. Comprising L-shaped seating and a seamless curved wedge on a low frame, all the focus is drawn to the boxy deep-seat cushioning and softly curved angles. Padded with supportive fibre…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/12/JEWEL-CORNER-SOFA.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 30344,
+                "url": "https://alhuzaifa.com/shop-categories/osborn-corner-sofa/",
+                "url_meta": {
+                    "origin": 35674,
+                    "position": 3
+                },
+                "title": "Osborn corner sofa",
+                "date": "December 1, 2021",
+                "format": false,
+                "excerpt": "Clean, crisp and classy, the Osborn Corner Sofa makes a spectacular and uber-comfy addition to any living room. With boxy arm rails and a low relaxed posture upholstered in durable fabric, this contemporary sectional is layered with a lounge-worthy mix of supportive fibre cushions and plump feather pillows. The perfect…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/12/OSBORN-CORNER-SOFA.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 29799,
+                "url": "https://alhuzaifa.com/shop-categories/geneve-3-seater-with-orange-cushion/",
+                "url_meta": {
+                    "origin": 35674,
+                    "position": 4
+                },
+                "title": "Geneve 3 seater with orange cushion",
+                "date": "November 25, 2021",
+                "format": false,
+                "excerpt": "Classic and contemporary, sectionals and standalones, luxe leather and high-performance upholstery ? with sofas for every sense of style, find a world of comfortable choices to suit your space and aesthetic.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/11/GENEVE-3-SEATER-4.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 29798,
+                "url": "https://alhuzaifa.com/shop-categories/geneve-3-seater-with-blue-cushion/",
+                "url_meta": {
+                    "origin": 35674,
+                    "position": 5
+                },
+                "title": "Geneve 3 seater with blue cushion",
+                "date": "November 25, 2021",
+                "format": false,
+                "excerpt": "Classic and contemporary, sectionals and standalones, luxe leather and high-performance upholstery ? with sofas for every sense of style, find a world of comfortable choices to suit your space and aesthetic.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/11/GENEVE-3-SEATER-1.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            }
+        ],
+        "_links": {
+            "self": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product/35674"
+            }],
+            "collection": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product"
+            }],
+            "about": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/types/product"
+            }],
+            "replies": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/comments?post=35674"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media/20111"
+            }],
+            "wp:attachment": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media?parent=35674"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }]
+        }
+    },
+    {
+        "id": 35676,
+        "date": "2022-03-05T14:56:54",
+        "date_gmt": "2022-03-05T10:56:54",
+        "guid": {
+            "rendered": "https://alhuzaifa.com/?post_type=product&#038;p=35676"
+        },
+        "modified": "2022-03-05T14:56:55",
+        "modified_gmt": "2022-03-05T10:56:55",
+        "slug": "ornetta-3-seater",
+        "status": "publish",
+        "type": "product",
+        "link": "https://alhuzaifa.com/shop-categories/ornetta-3-seater/",
+        "title": {
+            "rendered": "Ornetta 3 seater"
+        },
+        "content": {
+            "rendered": "<ul>\n<li>upholstery 100% polyester fabric</li>\n<li>legs in stainless steel brushed gold</li>\n<li>inner frame in pinewood and plywood</li>\n</ul>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Classic and contemporary, sectionals and standalones, luxe leather and high-performance upholstery – with sofas for every sense of style, find a world of comfortable choices to suit your space and aesthetic.</p>\n",
+            "protected": false
+        },
+        "featured_media": 34639,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "spay_email": ""
+        },
+        "jetpack-related-posts": [{
+                "id": 35674,
+                "url": "https://alhuzaifa.com/shop-categories/berilab/",
+                "url_meta": {
+                    "origin": 35676,
+                    "position": 0
+                },
+                "title": "Nicolo light brown",
+                "date": "March 5, 2022",
+                "format": false,
+                "excerpt": "Classic and contemporary, sectionals and standalones, luxe leather and high-performance upholstery – with sofas for every sense of style, find a world of comfortable choices to suit your space and aesthetic.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/04/NICOLO-2.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 34498,
+                "url": "https://alhuzaifa.com/shop-categories/adona-sofa-set/",
+                "url_meta": {
+                    "origin": 35676,
+                    "position": 1
+                },
+                "title": "Adona sofa set",
+                "date": "February 8, 2022",
+                "format": false,
+                "excerpt": "The Adona sofa is crafted in pinewood for exceptional support and comfort. The modern design comes in three, two, and one-seater that boasts a cozy upholstery with a grandeur aesthetic and striking brushed gold detailing. This piece blends trendy design and classic charisma for a broad spectrum of interiors.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2022/02/adona-sofa-set-2-1.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 27141,
+                "url": "https://alhuzaifa.com/shop-categories/stacy-bench/",
+                "url_meta": {
+                    "origin": 35676,
+                    "position": 2
+                },
+                "title": "Stacy bench",
+                "date": "December 18, 2021",
+                "format": false,
+                "excerpt": "The Stacy Bench is quite the striking modernist design. Its open metal base finished in antiqued copper plays contemporary counterpoint to the indulgent cushioning in plush cream and faun velveteen upholstery with contrasting trim. Placed at the foot of the bed, in front of a window or as a floating…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/12/STACY-BENCH.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 34610,
+                "url": "https://alhuzaifa.com/shop-categories/ornetta-sofa-set/",
+                "url_meta": {
+                    "origin": 35676,
+                    "position": 3
+                },
+                "title": "Ornetta sofa set",
+                "date": "February 8, 2022",
+                "format": false,
+                "excerpt": "Classic and contemporary, sectionals and standalones, luxe leather and high-performance upholstery – with sofas for every sense of style, find a world of comfortable choices to suit your space and aesthetic.",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2022/02/ORNETTA-SOFA-SET.jpg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 27148,
+                "url": "https://alhuzaifa.com/shop-categories/prima-3-seater/",
+                "url_meta": {
+                    "origin": 35676,
+                    "position": 4
+                },
+                "title": "Odessa 3 seater &#8211; grey",
+                "date": "October 29, 2021",
+                "format": false,
+                "excerpt": "With deep-seated comfort and a relaxed aesthetic, the Odessa 3-seater Sofa makes a modern yet inviting addition to the living room. Featuring a low profile back and soft linen upholstery, the versatility of Odessa shines through with its bold armrests, one draped with a plush cushion – ideal for catnaps…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/10/PRIMA-4.jpeg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            },
+            {
+                "id": 27282,
+                "url": "https://alhuzaifa.com/shop-categories/prima-3-seater-green/",
+                "url_meta": {
+                    "origin": 35676,
+                    "position": 5
+                },
+                "title": "Odessa 3 seater &#8211; green",
+                "date": "October 29, 2021",
+                "format": false,
+                "excerpt": "With deep-seated comfort and a relaxed aesthetic, the Odessa 3-seater Sofa makes a modern yet inviting addition to the living room. Featuring a low profile back and soft linen upholstery, the versatility of Odessa shines through with its bold armrests, one draped with a plush cushion – ideal for catnaps…",
+                "rel": "",
+                "context": "Similar post",
+                "img": {
+                    "alt_text": "",
+                    "src": "https://i0.wp.com/alhuzaifa.com/wp-content/uploads/2021/10/PRIMA-1.jpeg?resize=350%2C200&ssl=1",
+                    "width": 350,
+                    "height": 200
+                },
+                "classes": []
+            }
+        ],
+        "_links": {
+            "self": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product/35676"
+            }],
+            "collection": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/product"
+            }],
+            "about": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/types/product"
+            }],
+            "replies": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/comments?post=35676"
+            }],
+            "wp:featuredmedia": [{
+                "embeddable": true,
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media/34639"
+            }],
+            "wp:attachment": [{
+                "href": "https://alhuzaifa.com/wp-json/wp/v2/media?parent=35676"
+            }],
+            "curies": [{
+                "name": "wp",
+                "href": "https://api.w.org/{rel}",
+                "templated": true
+            }]
+        }
+    }
+]

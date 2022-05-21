@@ -1,0 +1,3236 @@
+{
+    "data": {
+        "products": {
+            "total_count": 1,
+            "items": [{
+                "id": 47207,
+                "sku": "231304700141_CF",
+                "name": "Modern Carpet Rug Rhapsody - 11729 U01",
+                "type_id": "configurable",
+                "stock_status": "IN_STOCK",
+                "special_price": null,
+                "reviewImages": [],
+                "hello_ar_product_code": [],
+                "delivery_days": null,
+                "is_returnable": "1",
+                "product_variant": [{
+                    "label": "Color Family",
+                    "url": "https://mcstaging.danubehome.com/media/product/attribute/images/yqcmu1629192670color-pale.png",
+                    "value": "Multi Color"
+                }],
+                "card_slideshow": [{
+                        "label": null,
+                        "path": "/2/3/231304700141_1.jpg",
+                        "url": "https://danubehome.com/media/catalog/product/cache/9a3f97fb4022dc0344b8f4ff8bd922de/2/3/231304700141_1.jpg"
+                    },
+                    {
+                        "label": null,
+                        "path": "/2/3/231304700141-2_1.jpg",
+                        "url": "https://danubehome.com/media/catalog/product/cache/9a3f97fb4022dc0344b8f4ff8bd922de/2/3/231304700141-2_1.jpg"
+                    },
+                    {
+                        "label": null,
+                        "path": "/2/3/231304700141-3_1.jpg",
+                        "url": "https://danubehome.com/media/catalog/product/cache/9a3f97fb4022dc0344b8f4ff8bd922de/2/3/231304700141-3_1.jpg"
+                    },
+                    {
+                        "label": null,
+                        "path": "/2/3/231304700141-4_1.jpg",
+                        "url": "https://danubehome.com/media/catalog/product/cache/9a3f97fb4022dc0344b8f4ff8bd922de/2/3/231304700141-4_1.jpg"
+                    }
+                ],
+                "product_details": [{
+                        "label": "Installation Type",
+                        "value": "Installation Not Required",
+                        "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                    },
+                    {
+                        "label": "Brand",
+                        "value": "Danube Home",
+                        "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                    },
+                    {
+                        "label": "Rugs Style",
+                        "value": "Modern",
+                        "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                    },
+                    {
+                        "label": "Dimension",
+                        "value": "W100 X L150 cm",
+                        "url": "https://mcstaging.danubehome.com/media/product/attribute/images/dhbsx1629191525dimension-.png"
+                    },
+                    {
+                        "label": "Color Family",
+                        "value": "Multi Color",
+                        "url": "https://mcstaging.danubehome.com/media/product/attribute/images/yqcmu1629192670color-pale.png"
+                    },
+                    {
+                        "label": "Material",
+                        "value": "Polypropylene",
+                        "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                    },
+                    {
+                        "label": "No of Pieces",
+                        "value": "1",
+                        "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                    },
+                    {
+                        "label": "Model No",
+                        "value": "11729 U01",
+                        "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                    },
+                    {
+                        "label": "Shape",
+                        "value": "NA",
+                        "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                    },
+                    {
+                        "label": "Item Includes",
+                        "value": "Carpet",
+                        "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                    }
+                ],
+                "only_x_left_in_stock": null,
+                "pricing": {
+                    "discount": 25,
+                    "salable_quantity": null,
+                    "you_save": 93.75,
+                    "alhan_points": null
+                },
+                "related_products": [{
+                        "sku": "231304700210_CF",
+                        "name": "Modern Carpet Rug Cloud - 11671 K01"
+                    },
+                    {
+                        "sku": "231304700195_CF",
+                        "name": "Modern Carpet Rug Tiffany - 07515 H10"
+                    },
+                    {
+                        "sku": "231304700165_CF",
+                        "name": "Classic Carpet Rug Rhapsody - 11748 J01"
+                    },
+                    {
+                        "sku": "231304700188_CF",
+                        "name": "Modern Carpet Rug Tiffany - 07449 U01"
+                    },
+                    {
+                        "sku": "231304700168_CF",
+                        "name": "Modern Carpet Rug Tiffany - 12709 Y01"
+                    },
+                    {
+                        "sku": "231304700171_CF",
+                        "name": "Modern Carpet Rug Tiffany - 12708 Y01"
+                    },
+                    {
+                        "sku": "231304700198_CF",
+                        "name": "Modern Carpet Rug Tiffany - 07954 H01"
+                    },
+                    {
+                        "sku": "231304700159_CF",
+                        "name": "Modern Carpet Rug Rhapsody - 11730 W01"
+                    },
+                    {
+                        "sku": "231304700150_CF",
+                        "name": "Classic Carpet Rug Rhapsody - 11748 U01"
+                    },
+                    {
+                        "sku": "231304700153_CF",
+                        "name": "Modern Carpet Rug Rhapsody - 11729 J01"
+                    },
+                    {
+                        "sku": "231304700201_CF",
+                        "name": "Modern Carpet Rug Tiffany - 07799 O01"
+                    },
+                    {
+                        "sku": "231304700207_CF",
+                        "name": "Modern Carpet Rug Cloud - 11690 K01"
+                    },
+                    {
+                        "sku": "231304700185_CF",
+                        "name": "Modern Carpet Rug Tiffany - 07398 U01"
+                    },
+                    {
+                        "sku": "231304700156_CF",
+                        "name": "Modern Carpet Rug Rhapsody - 11730 J01"
+                    },
+                    {
+                        "sku": "231304700180_CF",
+                        "name": "Modern Carpet Rug Tiffany - 07684 G03"
+                    },
+                    {
+                        "sku": "231304700177_CF",
+                        "name": "Modern Carpet Rug Tiffany - 07515 G01"
+                    },
+                    {
+                        "sku": "231304700144_CF",
+                        "name": "Modern Carpet Rug Rhapsody - 11730 U01"
+                    },
+                    {
+                        "sku": "231304700174_CF",
+                        "name": "Modern Carpet Rug Tiffany - 9054 Y01"
+                    },
+                    {
+                        "sku": "231304700162_CF",
+                        "name": "Modern Carpet Rug Rhapsody - 11735 J01"
+                    },
+                    {
+                        "sku": "231304700183_CF",
+                        "name": "Modern Carpet Rug Tiffany - 07961 U01"
+                    }
+                ],
+                "upsell_products": [],
+                "tier_prices": [],
+                "price": {
+                    "minimalPrice": {
+                        "amount": {
+                            "value": 281.25,
+                            "currency": "AED"
+                        }
+                    },
+                    "regularPrice": {
+                        "amount": {
+                            "value": 375,
+                            "currency": "AED"
+                        }
+                    }
+                },
+                "breadcrumbs": [],
+                "thumbnail": {
+                    "url": "https://danubehome.com/media/catalog/product/cache/791856a0cde4f5a194b9d5d7de8b3d94/2/3/231304700141-a.jpg",
+                    "path": "/2/3/231304700141-a.jpg",
+                    "label": "Modern Carpet Rug Rhapsody - 11729 U01"
+                },
+                "categories": [{
+                        "name": "Furnishings",
+                        "url_path": "furnishings",
+                        "url_key": "furnishings",
+                        "breadcrumbs": null
+                    },
+                    {
+                        "name": "Floor Covering",
+                        "url_path": "furnishings/floor-covering",
+                        "url_key": "floor-covering",
+                        "breadcrumbs": [{
+                            "category_name": "Furnishings",
+                            "category_url_key": "furnishings"
+                        }]
+                    },
+                    {
+                        "name": "Carpets & Rugs",
+                        "url_path": "furnishings/floor-covering/carpets-rugs",
+                        "url_key": "carpets-rugs",
+                        "breadcrumbs": [{
+                                "category_name": "Furnishings",
+                                "category_url_key": "furnishings"
+                            },
+                            {
+                                "category_name": "Floor Covering",
+                                "category_url_key": "floor-covering"
+                            }
+                        ]
+                    }
+                ],
+                "short_description": {
+                    "html": ""
+                },
+                "attributes": [{
+                        "attribute_id": 893,
+                        "attribute_value": "383",
+                        "attribute_code": "warranty",
+                        "attribute_type": "select",
+                        "is_swatch": false,
+                        "attribute_label": "Warranty",
+                        "attribute_options": [{
+                                "label": "NA",
+                                "value": "383",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "6 Months",
+                                "value": "386",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "7 Months",
+                                "value": "389",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "1 Year",
+                                "value": "392",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "2 Years",
+                                "value": "395",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "3 Years",
+                                "value": "398",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "4 Years",
+                                "value": "401",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "5 Years",
+                                "value": "404",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "6 Years",
+                                "value": "407",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "7 Years",
+                                "value": "410",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "8 Years",
+                                "value": "413",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "9 Years",
+                                "value": "416",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "10 Years",
+                                "value": "419",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "11 Years",
+                                "value": "422",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "12 Years",
+                                "value": "425",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "13 Years",
+                                "value": "428",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "14 Years",
+                                "value": "431",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "15 Years",
+                                "value": "434",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "16 Years",
+                                "value": "437",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "17 Years",
+                                "value": "440",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "18 Years",
+                                "value": "443",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "19 Years",
+                                "value": "446",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "20 Years",
+                                "value": "449",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "3 Months",
+                                "value": "869",
+                                "swatch_data": null
+                            }
+                        ]
+                    },
+                    {
+                        "attribute_id": 545,
+                        "attribute_value": "4",
+                        "attribute_code": "installation_type",
+                        "attribute_type": "select",
+                        "is_swatch": false,
+                        "attribute_label": "Installation Type",
+                        "attribute_options": [{
+                                "label": "Free Installation",
+                                "value": "2",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Free Installation above 1500",
+                                "value": "3",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Installation Not Required",
+                                "value": "4",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Free Installation above OMR 150",
+                                "value": "5",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Do It Yourself",
+                                "value": "1",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Free Installation",
+                                "value": "2",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Free Installation above 1500",
+                                "value": "3",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Installation Not Required",
+                                "value": "4",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Free Installation above OMR 150",
+                                "value": "5",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Do It Yourself",
+                                "value": "1",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Free Installation",
+                                "value": "2",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Free Installation above 1500",
+                                "value": "3",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Installation Not Required",
+                                "value": "4",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Free Installation above OMR 150",
+                                "value": "5",
+                                "swatch_data": null
+                            }
+                        ]
+                    },
+                    {
+                        "attribute_id": 1010,
+                        "attribute_value": "986",
+                        "attribute_code": "brand",
+                        "attribute_type": "select",
+                        "is_swatch": false,
+                        "attribute_label": "Brand",
+                        "attribute_options": [{
+                                "label": "Geepas",
+                                "value": "881",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Royal Ford",
+                                "value": "884",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Blue",
+                                "value": "887",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Milano",
+                                "value": "890",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Kingsley",
+                                "value": "893",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Algo",
+                                "value": "971",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Art of Living,",
+                                "value": "974",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Ascot",
+                                "value": "977",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Blumen",
+                                "value": "980",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Cerve",
+                                "value": "983",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Danube Home",
+                                "value": "986",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Elianware",
+                                "value": "989",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Fissman",
+                                "value": "992",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Homemaker",
+                                "value": "995",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Induct",
+                                "value": "998",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Lock & Lock",
+                                "value": "1001",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Master Chef",
+                                "value": "1004",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Neoflam",
+                                "value": "1007",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Ocean",
+                                "value": "1010",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Orchid",
+                                "value": "1013",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Pasabache",
+                                "value": "1016",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Penguen",
+                                "value": "1019",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Pigeon",
+                                "value": "1022",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Selvel",
+                                "value": "1025",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "NA",
+                                "value": "1028",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Hansgrohe",
+                                "value": "1335",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Larah",
+                                "value": "1395",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Raj",
+                                "value": "1398",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Borosil",
+                                "value": "1401",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Chefset",
+                                "value": "1404",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Nikai",
+                                "value": "1407",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Olsenmark",
+                                "value": "1410",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Kenwood",
+                                "value": "1413",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Eufy",
+                                "value": "1424",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Pasabahce",
+                                "value": "1448",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Helios",
+                                "value": "1472",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Kitchen Master",
+                                "value": "1475",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Korkmaz",
+                                "value": "1478",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "LAV",
+                                "value": "1481",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Life Smile",
+                                "value": "1484",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Moments",
+                                "value": "1487",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Kutahya Porselen",
+                                "value": "1496",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "RK",
+                                "value": "1490",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Victoriana",
+                                "value": "1499",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Happyware",
+                                "value": "1502",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Tennessee",
+                                "value": "1493",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Home Style",
+                                "value": "1505",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Tiger",
+                                "value": "1508",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Tramontina",
+                                "value": "1511",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Xtra",
+                                "value": "1514",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Claytan",
+                                "value": "1517",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Anchor Hocking",
+                                "value": "1520",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Chicago",
+                                "value": "1523",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Corelle",
+                                "value": "1526",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Domo",
+                                "value": "1529",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Illa",
+                                "value": "1532",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Milton",
+                                "value": "1535",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Vision",
+                                "value": "1538",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Legend",
+                                "value": "1541",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Lucy",
+                                "value": "1542",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Ew'S",
+                                "value": "1545",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Hane",
+                                "value": "1548",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Wisteria",
+                                "value": "1564",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "OMS",
+                                "value": "1567",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Windcera",
+                                "value": "1570",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Action",
+                                "value": "1573",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "4Ever",
+                                "value": "1576",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Elegant",
+                                "value": "1579",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Wt East",
+                                "value": "1582",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Perfect",
+                                "value": "1585",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Home Maker",
+                                "value": "1588",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Jaypee",
+                                "value": "1591",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Windcet",
+                                "value": "1594",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Utc",
+                                "value": "1597",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Royalford",
+                                "value": "1600",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "AVCI",
+                                "value": "1603",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Queens",
+                                "value": "1606",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Diyafah",
+                                "value": "1609",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Krypton",
+                                "value": "1612",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Lock N Lock",
+                                "value": "1615",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Chef Set",
+                                "value": "1618",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Delcasa",
+                                "value": "1621",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Nutribullet ",
+                                "value": "1627",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Berlinger Haus",
+                                "value": "1630",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Dinewell",
+                                "value": "1624",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Elegante",
+                                "value": "1636",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Pristine",
+                                "value": "1640",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Celina",
+                                "value": "1643",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Zonda",
+                                "value": "1646",
+                                "swatch_data": null
+                            }
+                        ]
+                    },
+                    {
+                        "attribute_id": 554,
+                        "attribute_value": "Carpets & Rugs",
+                        "attribute_code": "item_category",
+                        "attribute_type": "text",
+                        "is_swatch": false,
+                        "attribute_label": "Item Category",
+                        "attribute_options": []
+                    },
+                    {
+                        "attribute_id": 1403,
+                        "attribute_value": "1667",
+                        "attribute_code": "rugs_style",
+                        "attribute_type": "select",
+                        "is_swatch": false,
+                        "attribute_label": "Rugs Style",
+                        "attribute_options": [{
+                                "label": "Modern",
+                                "value": "1667",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Classic",
+                                "value": "1670",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Animal Fur",
+                                "value": "1685",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Digital Print",
+                                "value": "1688",
+                                "swatch_data": null
+                            }
+                        ]
+                    },
+                    {
+                        "attribute_id": 551,
+                        "attribute_value": "W100 X L150 cm",
+                        "attribute_code": "dimension",
+                        "attribute_type": "text",
+                        "is_swatch": false,
+                        "attribute_label": "Dimension",
+                        "attribute_options": []
+                    },
+                    {
+                        "attribute_id": 1400,
+                        "attribute_value": null,
+                        "attribute_code": "carpet_size",
+                        "attribute_type": "select",
+                        "is_swatch": true,
+                        "attribute_label": "Carpet Size",
+                        "attribute_options": [{
+                                "label": "W80 X L150",
+                                "value": "1652",
+                                "swatch_data": {
+                                    "type": "0",
+                                    "value": "W80 X L150"
+                                }
+                            },
+                            {
+                                "label": "W100 X L150",
+                                "value": "1655",
+                                "swatch_data": {
+                                    "type": "0",
+                                    "value": "W100 X L150"
+                                }
+                            },
+                            {
+                                "label": "W160 X L230",
+                                "value": "1658",
+                                "swatch_data": {
+                                    "type": "0",
+                                    "value": "W160 X L230"
+                                }
+                            },
+                            {
+                                "label": "W200 X L290",
+                                "value": "1661",
+                                "swatch_data": {
+                                    "type": "0",
+                                    "value": "W200 X L290"
+                                }
+                            },
+                            {
+                                "label": "W200 X L300",
+                                "value": "1664",
+                                "swatch_data": {
+                                    "type": "0",
+                                    "value": "W200 X L300"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "attribute_id": 278,
+                        "attribute_value": "713",
+                        "attribute_code": "color",
+                        "attribute_type": "select",
+                        "is_swatch": true,
+                        "attribute_label": "Color Family",
+                        "attribute_options": [{
+                                "label": "White",
+                                "value": "236",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#ffffff"
+                                }
+                            },
+                            {
+                                "label": "Black",
+                                "value": "239",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#000000"
+                                }
+                            },
+                            {
+                                "label": "Red",
+                                "value": "242",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#ff0303"
+                                }
+                            },
+                            {
+                                "label": "Green",
+                                "value": "245",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#0c9c0c"
+                                }
+                            },
+                            {
+                                "label": "Yellow",
+                                "value": "248",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#f7e200"
+                                }
+                            },
+                            {
+                                "label": "Orange",
+                                "value": "251",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#ff6f00"
+                                }
+                            },
+                            {
+                                "label": "Brown",
+                                "value": "254",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#966534"
+                                }
+                            },
+                            {
+                                "label": "Grey",
+                                "value": "257",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#666666"
+                                }
+                            },
+                            {
+                                "label": "Blue",
+                                "value": "260",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#0b23bd"
+                                }
+                            },
+                            {
+                                "label": "Pink",
+                                "value": "263",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#ff9ee8"
+                                }
+                            },
+                            {
+                                "label": "Beige",
+                                "value": "266",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#f7deb2"
+                                }
+                            },
+                            {
+                                "label": "Dark Beige",
+                                "value": "1196",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#946b45"
+                                }
+                            },
+                            {
+                                "label": "Silver",
+                                "value": "269",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#e0e0e0"
+                                }
+                            },
+                            {
+                                "label": "Gold",
+                                "value": "272",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#d1a907"
+                                }
+                            },
+                            {
+                                "label": "Clear",
+                                "value": "275",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#ffffff"
+                                }
+                            },
+                            {
+                                "label": "Rose",
+                                "value": "374",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#f33a6b"
+                                }
+                            },
+                            {
+                                "label": "Light Brown",
+                                "value": "1070",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#c4a484"
+                                }
+                            },
+                            {
+                                "label": "Dark Brown",
+                                "value": "1073",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#654321"
+                                }
+                            },
+                            {
+                                "label": "Light Green",
+                                "value": "1076",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#9bfa8c"
+                                }
+                            },
+                            {
+                                "label": "Dark Green",
+                                "value": "1079",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#0e6101"
+                                }
+                            },
+                            {
+                                "label": "Light Blue",
+                                "value": "1082",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#8bbef5"
+                                }
+                            },
+                            {
+                                "label": "Dark Blue",
+                                "value": "1085",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#051e82"
+                                }
+                            },
+                            {
+                                "label": "Multi Color",
+                                "value": "713",
+                                "swatch_data": {
+                                    "type": "2",
+                                    "value": "/m/u/multicolor-v1.jpg"
+                                }
+                            },
+                            {
+                                "label": "Cream",
+                                "value": "806",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#fae7b6"
+                                }
+                            },
+                            {
+                                "label": "Taupe",
+                                "value": "1088",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#483c32"
+                                }
+                            },
+                            {
+                                "label": "Turquoise",
+                                "value": "1091",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#30d5c7"
+                                }
+                            },
+                            {
+                                "label": "Maroon",
+                                "value": "1094",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#800000"
+                                }
+                            },
+                            {
+                                "label": "Purple",
+                                "value": "809",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#800080"
+                                }
+                            },
+                            {
+                                "label": "Peach",
+                                "value": "1097",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#ffc3b1"
+                                }
+                            },
+                            {
+                                "label": "Light Grey",
+                                "value": "1109",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#d3d3d3"
+                                }
+                            },
+                            {
+                                "label": "Dark Grey",
+                                "value": "1112",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#494b4d"
+                                }
+                            },
+                            {
+                                "label": "Olive",
+                                "value": "1115",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#808000"
+                                }
+                            },
+                            {
+                                "label": "Teal",
+                                "value": "902",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#005e80"
+                                }
+                            },
+                            {
+                                "label": "Dark Black",
+                                "value": "1118",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#000000"
+                                }
+                            },
+                            {
+                                "label": "Violet",
+                                "value": "905",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#9100ff"
+                                }
+                            },
+                            {
+                                "label": "Copper",
+                                "value": "1139",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#b87333"
+                                }
+                            },
+                            {
+                                "label": "Chrome",
+                                "value": "1419",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#dbe4eb"
+                                }
+                            },
+                            {
+                                "label": "Dark Red",
+                                "value": "1181",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#a30000"
+                                }
+                            },
+                            {
+                                "label": "Ivory",
+                                "value": "1633",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#f2efde"
+                                }
+                            },
+                            {
+                                "label": "Bronze",
+                                "value": "1691",
+                                "swatch_data": {
+                                    "type": "1",
+                                    "value": "#cd7f32"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "attribute_id": 587,
+                        "attribute_value": "Polypropylene",
+                        "attribute_code": "material",
+                        "attribute_type": "text",
+                        "is_swatch": false,
+                        "attribute_label": "Material",
+                        "attribute_options": []
+                    },
+                    {
+                        "attribute_id": 1112,
+                        "attribute_value": null,
+                        "attribute_code": "secondary_material",
+                        "attribute_type": "select",
+                        "is_swatch": false,
+                        "attribute_label": "Secondary Material",
+                        "attribute_options": [{
+                                "label": "Wood",
+                                "value": "950",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Metal",
+                                "value": "953",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Engineered Wood",
+                                "value": "956",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Polyester",
+                                "value": "1043",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Fabric",
+                                "value": "1061",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Steel",
+                                "value": "1100",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Polycarbonate",
+                                "value": "1103",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Rattan",
+                                "value": "1106",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "NA",
+                                "value": "1064",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Ceramic",
+                                "value": "1133",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Plastic",
+                                "value": "1136",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Aluminium",
+                                "value": "1187",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Cement",
+                                "value": "1190",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Glass",
+                                "value": "1193",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Rubber",
+                                "value": "1202",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Polyresin",
+                                "value": "1205",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Texteline",
+                                "value": "1305",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Iron Roof",
+                                "value": "1308",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Cotton Rope",
+                                "value": "1311",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Tube",
+                                "value": "1314",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Cotton",
+                                "value": "1317",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Foam",
+                                "value": "1320",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Polyethylene",
+                                "value": "1323",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "MDF",
+                                "value": "1326",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Creamic",
+                                "value": "1329",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "PVC",
+                                "value": "1332",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Plywood",
+                                "value": "1560",
+                                "swatch_data": null
+                            }
+                        ]
+                    },
+                    {
+                        "attribute_id": 674,
+                        "attribute_value": "1",
+                        "attribute_code": "no_of_pieces",
+                        "attribute_type": "text",
+                        "is_swatch": false,
+                        "attribute_label": "No of Pieces",
+                        "attribute_options": []
+                    },
+                    {
+                        "attribute_id": 569,
+                        "attribute_value": "11729 U01",
+                        "attribute_code": "model_no",
+                        "attribute_type": "text",
+                        "is_swatch": false,
+                        "attribute_label": "Model No",
+                        "attribute_options": []
+                    },
+                    {
+                        "attribute_id": 1106,
+                        "attribute_value": null,
+                        "attribute_code": "pattern",
+                        "attribute_type": "select",
+                        "is_swatch": false,
+                        "attribute_label": "Pattern",
+                        "attribute_options": [{
+                                "label": "Print",
+                                "value": "929",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Plain",
+                                "value": "932",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Solid",
+                                "value": "1217",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Jacquard",
+                                "value": "1220",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Texture",
+                                "value": "1223",
+                                "swatch_data": null
+                            }
+                        ]
+                    },
+                    {
+                        "attribute_id": 950,
+                        "attribute_value": "599",
+                        "attribute_code": "shape",
+                        "attribute_type": "select",
+                        "is_swatch": false,
+                        "attribute_label": "Shape",
+                        "attribute_options": [{
+                                "label": "Circle",
+                                "value": "578",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Rectangle",
+                                "value": "581",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Hexagon",
+                                "value": "584",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Triangle",
+                                "value": "587",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Oval",
+                                "value": "590",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Square",
+                                "value": "593",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Pentagon",
+                                "value": "596",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Flower",
+                                "value": "1286",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "Octagonal",
+                                "value": "1289",
+                                "swatch_data": null
+                            },
+                            {
+                                "label": "NA",
+                                "value": "599",
+                                "swatch_data": null
+                            }
+                        ]
+                    },
+                    {
+                        "attribute_id": 581,
+                        "attribute_value": "Carpet",
+                        "attribute_code": "item_includes",
+                        "attribute_type": "text",
+                        "is_swatch": false,
+                        "attribute_label": "Item Includes",
+                        "attribute_options": []
+                    },
+                    {
+                        "attribute_id": 980,
+                        "attribute_value": null,
+                        "attribute_code": "why_we_love_it",
+                        "attribute_type": "textarea",
+                        "is_swatch": false,
+                        "attribute_label": "Why We Love It",
+                        "attribute_options": []
+                    },
+                    {
+                        "attribute_id": 881,
+                        "attribute_value": null,
+                        "attribute_code": "decor_tips",
+                        "attribute_type": "textarea",
+                        "is_swatch": false,
+                        "attribute_label": "Decor Tips",
+                        "attribute_options": []
+                    },
+                    {
+                        "attribute_id": 896,
+                        "attribute_value": null,
+                        "attribute_code": "warranty_info",
+                        "attribute_type": "textarea",
+                        "is_swatch": false,
+                        "attribute_label": "Warranty Information",
+                        "attribute_options": []
+                    },
+                    {
+                        "attribute_id": 1226,
+                        "attribute_value": null,
+                        "attribute_code": "buying_guide",
+                        "attribute_type": "textarea",
+                        "is_swatch": false,
+                        "attribute_label": "Buying Guide",
+                        "attribute_options": []
+                    },
+                    {
+                        "attribute_id": 1223,
+                        "attribute_value": null,
+                        "attribute_code": "detailed_dimension",
+                        "attribute_type": "textarea",
+                        "is_swatch": false,
+                        "attribute_label": "Detailed Dimension ",
+                        "attribute_options": []
+                    }
+                ],
+                "custom_options": [],
+                "url_key": "modern-carpet-rug-rhapsody-11729-u01",
+                "review_summary": {
+                    "each_rating_percentage": {
+                        "fiveStar": 0,
+                        "fourStar": 0,
+                        "oneStar": 0,
+                        "threeStar": 0,
+                        "twoStar": 0
+                    },
+                    "rating_summary": null,
+                    "review_count": null
+                },
+                "configurable_options": [{
+                    "attribute_code": "carpet_size",
+                    "values": [{
+                            "value_index": 1658
+                        },
+                        {
+                            "value_index": 1661
+                        }
+                    ]
+                }],
+                "variants": [{
+                        "product": {
+                            "id": 46928,
+                            "sku": "231304700140",
+                            "name": "Modern Carpet Rug Rhapsody 100X150 - 11729 U01",
+                            "type_id": "simple",
+                            "stock_status": "IN_STOCK",
+                            "special_price": 281.25,
+                            "reviewImages": [],
+                            "hello_ar_product_code": [],
+                            "delivery_days": null,
+                            "is_returnable": "1",
+                            "product_variant": [{
+                                "label": "Color Family",
+                                "url": "https://mcstaging.danubehome.com/media/product/attribute/images/yqcmu1629192670color-pale.png",
+                                "value": "Multi Color"
+                            }],
+                            "card_slideshow": [{
+                                    "label": null,
+                                    "path": "/2/3/231304700141-a_1.jpg",
+                                    "url": "https://danubehome.com/media/catalog/product/cache/9a3f97fb4022dc0344b8f4ff8bd922de/2/3/231304700141-a_1.jpg"
+                                },
+                                {
+                                    "label": null,
+                                    "path": "/2/3/231304700141-2.jpg",
+                                    "url": "https://danubehome.com/media/catalog/product/cache/9a3f97fb4022dc0344b8f4ff8bd922de/2/3/231304700141-2.jpg"
+                                },
+                                {
+                                    "label": null,
+                                    "path": "/2/3/231304700141-3.jpg",
+                                    "url": "https://danubehome.com/media/catalog/product/cache/9a3f97fb4022dc0344b8f4ff8bd922de/2/3/231304700141-3.jpg"
+                                },
+                                {
+                                    "label": null,
+                                    "path": "/2/3/231304700141-4.jpg",
+                                    "url": "https://danubehome.com/media/catalog/product/cache/9a3f97fb4022dc0344b8f4ff8bd922de/2/3/231304700141-4.jpg"
+                                }
+                            ],
+                            "product_details": [{
+                                    "label": "Installation Type",
+                                    "value": "Installation Not Required",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Brand",
+                                    "value": "Danube Home",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Rugs Style",
+                                    "value": "Modern",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Dimension",
+                                    "value": "W100 X L150 cm",
+                                    "url": "https://mcstaging.danubehome.com/media/product/attribute/images/dhbsx1629191525dimension-.png"
+                                },
+                                {
+                                    "label": "Color Family",
+                                    "value": "Multi Color",
+                                    "url": "https://mcstaging.danubehome.com/media/product/attribute/images/yqcmu1629192670color-pale.png"
+                                },
+                                {
+                                    "label": "Material",
+                                    "value": "Polypropylene",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "No of Pieces",
+                                    "value": "1",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Model No",
+                                    "value": "11729 U01",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Shape",
+                                    "value": "Rectangle",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Item Includes",
+                                    "value": "Rugs",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                }
+                            ],
+                            "only_x_left_in_stock": null,
+                            "pricing": {
+                                "discount": 25,
+                                "salable_quantity": 13,
+                                "you_save": 93.75,
+                                "alhan_points": null
+                            },
+                            "related_products": [{
+                                    "sku": "231300461029",
+                                    "name": "Rugs Cp21 Shelk 200X300 D065 - Daisy Gold"
+                                },
+                                {
+                                    "sku": "231300461036",
+                                    "name": "Rugs Cp21 Shelk 150X230 D065 - Daisy Pink"
+                                },
+                                {
+                                    "sku": "231300461017",
+                                    "name": "Rugs Cp21 Almaz 200X300 D498 - Daisy Mustard"
+                                },
+                                {
+                                    "sku": "231300461048",
+                                    "name": "Rugs Cp22 Guzel 150X230 D148 - Green"
+                                },
+                                {
+                                    "sku": "231300457474",
+                                    "name": "Rugs Cpc Lp Elmas 150X230 Black Gold 00603"
+                                },
+                                {
+                                    "sku": "231300461033",
+                                    "name": "Rugs Cp21 Shelk 150X230 D065 - Daisy Blue"
+                                },
+                                {
+                                    "sku": "231300461012",
+                                    "name": "Rugs Cp21 Abusan 150X230 D327 - Grey Mustard"
+                                },
+                                {
+                                    "sku": "231300461039",
+                                    "name": "Rugs Cp21 Namaz 150X230 D072 - Grey"
+                                },
+                                {
+                                    "sku": "231300461003",
+                                    "name": "Rugs Cp21 Abusan 150X230 D327 - Daisy Mustard"
+                                },
+                                {
+                                    "sku": "231300461009",
+                                    "name": "Rugs Cp21 Abusan 150X230 D327 - Grey Navy"
+                                },
+                                {
+                                    "sku": "231300461026",
+                                    "name": "Rugs Cp21 Almaz 200X300 D498 - Daisy Pink"
+                                },
+                                {
+                                    "sku": "231300460994",
+                                    "name": "Rugs Cp21 Mahal 150X230 D322 - Grey Multi"
+                                },
+                                {
+                                    "sku": "231300461014",
+                                    "name": "Rugs Cp21 Almaz 200X300 D498 - Grey Mustard"
+                                },
+                                {
+                                    "sku": "231300461002",
+                                    "name": "Rugs Cp21 Abusan 200X300 D327 - Daisy Mustard"
+                                },
+                                {
+                                    "sku": "231300461045",
+                                    "name": "Rugs Cp21 Namaz 150X230 D072 - Beige"
+                                },
+                                {
+                                    "sku": "231300461030",
+                                    "name": "Rugs Cp21 Shelk 150X230 D065 - Daisy Gold"
+                                },
+                                {
+                                    "sku": "231300460991",
+                                    "name": "Rugs Cp21 Mahal 150X230 D322 - Grey Pink"
+                                },
+                                {
+                                    "sku": "231300457478",
+                                    "name": "Rugs Cpc Lp Elmas 100X300 Grey Gold 00603"
+                                },
+                                {
+                                    "sku": "231300461051",
+                                    "name": "Rugs Cp25 Guzel 150X230 D148 - Red"
+                                },
+                                {
+                                    "sku": "231300461054",
+                                    "name": "Rugs Cp28 Guzel 150X230 D148 - Beige"
+                                }
+                            ],
+                            "upsell_products": [],
+                            "tier_prices": [],
+                            "price": {
+                                "minimalPrice": {
+                                    "amount": {
+                                        "value": 281.25,
+                                        "currency": "AED"
+                                    }
+                                },
+                                "regularPrice": {
+                                    "amount": {
+                                        "value": 375,
+                                        "currency": "AED"
+                                    }
+                                }
+                            },
+                            "breadcrumbs": [],
+                            "thumbnail": {
+                                "url": "https://danubehome.com/media/catalog/product/cache/791856a0cde4f5a194b9d5d7de8b3d94/2/3/231304700141.jpg",
+                                "path": "/2/3/231304700141.jpg",
+                                "label": "Modern Carpet Rug Rhapsody 100X150 - 11729 U01"
+                            },
+                            "categories": [{
+                                    "name": "Furnishings",
+                                    "url_path": "furnishings",
+                                    "url_key": "furnishings",
+                                    "breadcrumbs": null
+                                },
+                                {
+                                    "name": "Floor Covering",
+                                    "url_path": "furnishings/floor-covering",
+                                    "url_key": "floor-covering",
+                                    "breadcrumbs": [{
+                                        "category_name": "Furnishings",
+                                        "category_url_key": "furnishings"
+                                    }]
+                                },
+                                {
+                                    "name": "Carpets & Rugs",
+                                    "url_path": "furnishings/floor-covering/carpets-rugs",
+                                    "url_key": "carpets-rugs",
+                                    "breadcrumbs": [{
+                                            "category_name": "Furnishings",
+                                            "category_url_key": "furnishings"
+                                        },
+                                        {
+                                            "category_name": "Floor Covering",
+                                            "category_url_key": "floor-covering"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "short_description": {
+                                "html": ""
+                            },
+                            "attributes": [{
+                                    "attribute_id": 893,
+                                    "attribute_value": "383",
+                                    "attribute_code": "warranty",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Warranty"
+                                },
+                                {
+                                    "attribute_id": 545,
+                                    "attribute_value": "4",
+                                    "attribute_code": "installation_type",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Installation Type"
+                                },
+                                {
+                                    "attribute_id": 1010,
+                                    "attribute_value": "986",
+                                    "attribute_code": "brand",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Brand"
+                                },
+                                {
+                                    "attribute_id": 554,
+                                    "attribute_value": "Rugs",
+                                    "attribute_code": "item_category",
+                                    "attribute_type": "text",
+                                    "is_swatch": false,
+                                    "attribute_label": "Item Category"
+                                },
+                                {
+                                    "attribute_id": 1403,
+                                    "attribute_value": "1667",
+                                    "attribute_code": "rugs_style",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Rugs Style"
+                                },
+                                {
+                                    "attribute_id": 551,
+                                    "attribute_value": "W100 X L150 cm",
+                                    "attribute_code": "dimension",
+                                    "attribute_type": "text",
+                                    "is_swatch": false,
+                                    "attribute_label": "Dimension"
+                                },
+                                {
+                                    "attribute_id": 1400,
+                                    "attribute_value": null,
+                                    "attribute_code": "carpet_size",
+                                    "attribute_type": "select",
+                                    "is_swatch": true,
+                                    "attribute_label": "Carpet Size"
+                                },
+                                {
+                                    "attribute_id": 278,
+                                    "attribute_value": "713",
+                                    "attribute_code": "color",
+                                    "attribute_type": "select",
+                                    "is_swatch": true,
+                                    "attribute_label": "Color Family"
+                                },
+                                {
+                                    "attribute_id": 587,
+                                    "attribute_value": "Polypropylene",
+                                    "attribute_code": "material",
+                                    "attribute_type": "text",
+                                    "is_swatch": false,
+                                    "attribute_label": "Material"
+                                },
+                                {
+                                    "attribute_id": 1112,
+                                    "attribute_value": null,
+                                    "attribute_code": "secondary_material",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Secondary Material"
+                                },
+                                {
+                                    "attribute_id": 674,
+                                    "attribute_value": "1",
+                                    "attribute_code": "no_of_pieces",
+                                    "attribute_type": "text",
+                                    "is_swatch": false,
+                                    "attribute_label": "No of Pieces"
+                                },
+                                {
+                                    "attribute_id": 569,
+                                    "attribute_value": "11729 U01",
+                                    "attribute_code": "model_no",
+                                    "attribute_type": "text",
+                                    "is_swatch": false,
+                                    "attribute_label": "Model No"
+                                },
+                                {
+                                    "attribute_id": 1106,
+                                    "attribute_value": null,
+                                    "attribute_code": "pattern",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Pattern"
+                                },
+                                {
+                                    "attribute_id": 950,
+                                    "attribute_value": "581",
+                                    "attribute_code": "shape",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Shape"
+                                },
+                                {
+                                    "attribute_id": 581,
+                                    "attribute_value": "Rugs",
+                                    "attribute_code": "item_includes",
+                                    "attribute_type": "text",
+                                    "is_swatch": false,
+                                    "attribute_label": "Item Includes"
+                                },
+                                {
+                                    "attribute_id": 980,
+                                    "attribute_value": null,
+                                    "attribute_code": "why_we_love_it",
+                                    "attribute_type": "textarea",
+                                    "is_swatch": false,
+                                    "attribute_label": "Why We Love It"
+                                },
+                                {
+                                    "attribute_id": 881,
+                                    "attribute_value": null,
+                                    "attribute_code": "decor_tips",
+                                    "attribute_type": "textarea",
+                                    "is_swatch": false,
+                                    "attribute_label": "Decor Tips"
+                                },
+                                {
+                                    "attribute_id": 896,
+                                    "attribute_value": null,
+                                    "attribute_code": "warranty_info",
+                                    "attribute_type": "textarea",
+                                    "is_swatch": false,
+                                    "attribute_label": "Warranty Information"
+                                },
+                                {
+                                    "attribute_id": 1226,
+                                    "attribute_value": null,
+                                    "attribute_code": "buying_guide",
+                                    "attribute_type": "textarea",
+                                    "is_swatch": false,
+                                    "attribute_label": "Buying Guide"
+                                },
+                                {
+                                    "attribute_id": 1223,
+                                    "attribute_value": null,
+                                    "attribute_code": "detailed_dimension",
+                                    "attribute_type": "textarea",
+                                    "is_swatch": false,
+                                    "attribute_label": "Detailed Dimension "
+                                }
+                            ],
+                            "custom_options": [],
+                            "meta_title": null,
+                            "meta_keyword": null,
+                            "canonical_url": "https://danubehome.com/ae/en/modern-carpet-rug-rhapsody-100x150-11729-u01",
+                            "meta_description": null,
+                            "is_linked_to_grouped_product": false,
+                            "linked_grouped_product_info": {
+                                "linked_products": [],
+                                "main_grouped_product": null
+                            },
+                            "description": {
+                                "html": ""
+                            },
+                            "media_gallery_entries": [{
+                                    "id": 142403,
+                                    "file": "/2/3/231304700141.jpg",
+                                    "label": null,
+                                    "position": 0,
+                                    "disabled": false,
+                                    "media_type": "image",
+                                    "types": [
+                                        "image",
+                                        "small_image",
+                                        "thumbnail",
+                                        "swatch_image"
+                                    ],
+                                    "thumbnail": {
+                                        "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141.jpg"
+                                    },
+                                    "video_content": null
+                                },
+                                {
+                                    "id": 144263,
+                                    "file": "/2/3/231304700141-a_1.jpg",
+                                    "label": null,
+                                    "position": 1,
+                                    "disabled": false,
+                                    "media_type": "image",
+                                    "types": [
+                                        "card_slideshow_1"
+                                    ],
+                                    "thumbnail": {
+                                        "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141-a_1.jpg"
+                                    },
+                                    "video_content": null
+                                },
+                                {
+                                    "id": 142409,
+                                    "file": "/2/3/231304700141-2.jpg",
+                                    "label": null,
+                                    "position": 2,
+                                    "disabled": false,
+                                    "media_type": "image",
+                                    "types": [
+                                        "card_slideshow_2"
+                                    ],
+                                    "thumbnail": {
+                                        "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141-2.jpg"
+                                    },
+                                    "video_content": null
+                                },
+                                {
+                                    "id": 142412,
+                                    "file": "/2/3/231304700141-3.jpg",
+                                    "label": null,
+                                    "position": 3,
+                                    "disabled": false,
+                                    "media_type": "image",
+                                    "types": [
+                                        "card_slideshow_3"
+                                    ],
+                                    "thumbnail": {
+                                        "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141-3.jpg"
+                                    },
+                                    "video_content": null
+                                },
+                                {
+                                    "id": 142415,
+                                    "file": "/2/3/231304700141-4.jpg",
+                                    "label": null,
+                                    "position": 4,
+                                    "disabled": false,
+                                    "media_type": "image",
+                                    "types": [
+                                        "card_slideshow_4"
+                                    ],
+                                    "thumbnail": {
+                                        "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141-4.jpg"
+                                    },
+                                    "video_content": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "product": {
+                            "id": 46931,
+                            "sku": "231304700141",
+                            "name": "Modern Carpet Rug Rhapsody 160X230 - 11729 U01",
+                            "type_id": "simple",
+                            "stock_status": "IN_STOCK",
+                            "special_price": 693.75,
+                            "reviewImages": [],
+                            "hello_ar_product_code": [],
+                            "delivery_days": null,
+                            "is_returnable": "1",
+                            "product_variant": [{
+                                "label": "Color Family",
+                                "url": "https://mcstaging.danubehome.com/media/product/attribute/images/yqcmu1629192670color-pale.png",
+                                "value": "Multi Color"
+                            }],
+                            "card_slideshow": [{
+                                    "label": null,
+                                    "path": "/2/3/231304700141-1.jpg",
+                                    "url": "https://danubehome.com/media/catalog/product/cache/9a3f97fb4022dc0344b8f4ff8bd922de/2/3/231304700141-1.jpg"
+                                },
+                                {
+                                    "label": null,
+                                    "path": "/2/3/231304700141-2.jpg",
+                                    "url": "https://danubehome.com/media/catalog/product/cache/9a3f97fb4022dc0344b8f4ff8bd922de/2/3/231304700141-2.jpg"
+                                },
+                                {
+                                    "label": null,
+                                    "path": "/2/3/231304700141-3.jpg",
+                                    "url": "https://danubehome.com/media/catalog/product/cache/9a3f97fb4022dc0344b8f4ff8bd922de/2/3/231304700141-3.jpg"
+                                },
+                                {
+                                    "label": null,
+                                    "path": "/2/3/231304700141-4.jpg",
+                                    "url": "https://danubehome.com/media/catalog/product/cache/9a3f97fb4022dc0344b8f4ff8bd922de/2/3/231304700141-4.jpg"
+                                }
+                            ],
+                            "product_details": [{
+                                    "label": "Installation Type",
+                                    "value": "Installation Not Required",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Brand",
+                                    "value": "Danube Home",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Rugs Style",
+                                    "value": "Modern",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Dimension",
+                                    "value": "W160 X L230 cm",
+                                    "url": "https://mcstaging.danubehome.com/media/product/attribute/images/dhbsx1629191525dimension-.png"
+                                },
+                                {
+                                    "label": "Carpet Size",
+                                    "value": "W160 X L230",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Color Family",
+                                    "value": "Multi Color",
+                                    "url": "https://mcstaging.danubehome.com/media/product/attribute/images/yqcmu1629192670color-pale.png"
+                                },
+                                {
+                                    "label": "Material",
+                                    "value": "Polypropylene",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "No of Pieces",
+                                    "value": "1",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Model No",
+                                    "value": "11729 U01",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Shape",
+                                    "value": "Rectangle",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Item Includes",
+                                    "value": "Rugs",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                }
+                            ],
+                            "only_x_left_in_stock": null,
+                            "pricing": {
+                                "discount": 25,
+                                "salable_quantity": 49,
+                                "you_save": 231.25,
+                                "alhan_points": null
+                            },
+                            "related_products": [{
+                                    "sku": "231300457478",
+                                    "name": "Rugs Cpc Lp Elmas 100X300 Grey Gold 00603"
+                                },
+                                {
+                                    "sku": "231300461054",
+                                    "name": "Rugs Cp28 Guzel 150X230 D148 - Beige"
+                                },
+                                {
+                                    "sku": "231300461036",
+                                    "name": "Rugs Cp21 Shelk 150X230 D065 - Daisy Pink"
+                                },
+                                {
+                                    "sku": "231300461012",
+                                    "name": "Rugs Cp21 Abusan 150X230 D327 - Grey Mustard"
+                                },
+                                {
+                                    "sku": "231300461029",
+                                    "name": "Rugs Cp21 Shelk 200X300 D065 - Daisy Gold"
+                                },
+                                {
+                                    "sku": "231300461045",
+                                    "name": "Rugs Cp21 Namaz 150X230 D072 - Beige"
+                                },
+                                {
+                                    "sku": "231300460991",
+                                    "name": "Rugs Cp21 Mahal 150X230 D322 - Grey Pink"
+                                },
+                                {
+                                    "sku": "231300461048",
+                                    "name": "Rugs Cp22 Guzel 150X230 D148 - Green"
+                                },
+                                {
+                                    "sku": "231300461051",
+                                    "name": "Rugs Cp25 Guzel 150X230 D148 - Red"
+                                },
+                                {
+                                    "sku": "231300461003",
+                                    "name": "Rugs Cp21 Abusan 150X230 D327 - Daisy Mustard"
+                                },
+                                {
+                                    "sku": "231300461009",
+                                    "name": "Rugs Cp21 Abusan 150X230 D327 - Grey Navy"
+                                },
+                                {
+                                    "sku": "231300461014",
+                                    "name": "Rugs Cp21 Almaz 200X300 D498 - Grey Mustard"
+                                },
+                                {
+                                    "sku": "231300461026",
+                                    "name": "Rugs Cp21 Almaz 200X300 D498 - Daisy Pink"
+                                },
+                                {
+                                    "sku": "231300457474",
+                                    "name": "Rugs Cpc Lp Elmas 150X230 Black Gold 00603"
+                                },
+                                {
+                                    "sku": "231300461039",
+                                    "name": "Rugs Cp21 Namaz 150X230 D072 - Grey"
+                                },
+                                {
+                                    "sku": "231300461030",
+                                    "name": "Rugs Cp21 Shelk 150X230 D065 - Daisy Gold"
+                                },
+                                {
+                                    "sku": "231300461002",
+                                    "name": "Rugs Cp21 Abusan 200X300 D327 - Daisy Mustard"
+                                },
+                                {
+                                    "sku": "231300460994",
+                                    "name": "Rugs Cp21 Mahal 150X230 D322 - Grey Multi"
+                                },
+                                {
+                                    "sku": "231300461033",
+                                    "name": "Rugs Cp21 Shelk 150X230 D065 - Daisy Blue"
+                                },
+                                {
+                                    "sku": "231300461017",
+                                    "name": "Rugs Cp21 Almaz 200X300 D498 - Daisy Mustard"
+                                }
+                            ],
+                            "upsell_products": [],
+                            "tier_prices": [],
+                            "price": {
+                                "minimalPrice": {
+                                    "amount": {
+                                        "value": 693.75,
+                                        "currency": "AED"
+                                    }
+                                },
+                                "regularPrice": {
+                                    "amount": {
+                                        "value": 925,
+                                        "currency": "AED"
+                                    }
+                                }
+                            },
+                            "breadcrumbs": [],
+                            "thumbnail": {
+                                "url": "https://danubehome.com/media/catalog/product/cache/791856a0cde4f5a194b9d5d7de8b3d94/2/3/231304700141.jpg",
+                                "path": "/2/3/231304700141.jpg",
+                                "label": "Modern Carpet Rug Rhapsody 160X230 - 11729 U01"
+                            },
+                            "categories": [{
+                                    "name": "Furnishings",
+                                    "url_path": "furnishings",
+                                    "url_key": "furnishings",
+                                    "breadcrumbs": null
+                                },
+                                {
+                                    "name": "Floor Covering",
+                                    "url_path": "furnishings/floor-covering",
+                                    "url_key": "floor-covering",
+                                    "breadcrumbs": [{
+                                        "category_name": "Furnishings",
+                                        "category_url_key": "furnishings"
+                                    }]
+                                },
+                                {
+                                    "name": "Carpets & Rugs",
+                                    "url_path": "furnishings/floor-covering/carpets-rugs",
+                                    "url_key": "carpets-rugs",
+                                    "breadcrumbs": [{
+                                            "category_name": "Furnishings",
+                                            "category_url_key": "furnishings"
+                                        },
+                                        {
+                                            "category_name": "Floor Covering",
+                                            "category_url_key": "floor-covering"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "short_description": {
+                                "html": ""
+                            },
+                            "attributes": [{
+                                    "attribute_id": 893,
+                                    "attribute_value": "383",
+                                    "attribute_code": "warranty",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Warranty"
+                                },
+                                {
+                                    "attribute_id": 545,
+                                    "attribute_value": "4",
+                                    "attribute_code": "installation_type",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Installation Type"
+                                },
+                                {
+                                    "attribute_id": 1010,
+                                    "attribute_value": "986",
+                                    "attribute_code": "brand",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Brand"
+                                },
+                                {
+                                    "attribute_id": 554,
+                                    "attribute_value": "Rugs",
+                                    "attribute_code": "item_category",
+                                    "attribute_type": "text",
+                                    "is_swatch": false,
+                                    "attribute_label": "Item Category"
+                                },
+                                {
+                                    "attribute_id": 1403,
+                                    "attribute_value": "1667",
+                                    "attribute_code": "rugs_style",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Rugs Style"
+                                },
+                                {
+                                    "attribute_id": 551,
+                                    "attribute_value": "W160 X L230 cm",
+                                    "attribute_code": "dimension",
+                                    "attribute_type": "text",
+                                    "is_swatch": false,
+                                    "attribute_label": "Dimension"
+                                },
+                                {
+                                    "attribute_id": 1400,
+                                    "attribute_value": "1658",
+                                    "attribute_code": "carpet_size",
+                                    "attribute_type": "select",
+                                    "is_swatch": true,
+                                    "attribute_label": "Carpet Size"
+                                },
+                                {
+                                    "attribute_id": 278,
+                                    "attribute_value": "713",
+                                    "attribute_code": "color",
+                                    "attribute_type": "select",
+                                    "is_swatch": true,
+                                    "attribute_label": "Color Family"
+                                },
+                                {
+                                    "attribute_id": 587,
+                                    "attribute_value": "Polypropylene",
+                                    "attribute_code": "material",
+                                    "attribute_type": "text",
+                                    "is_swatch": false,
+                                    "attribute_label": "Material"
+                                },
+                                {
+                                    "attribute_id": 1112,
+                                    "attribute_value": null,
+                                    "attribute_code": "secondary_material",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Secondary Material"
+                                },
+                                {
+                                    "attribute_id": 674,
+                                    "attribute_value": "1",
+                                    "attribute_code": "no_of_pieces",
+                                    "attribute_type": "text",
+                                    "is_swatch": false,
+                                    "attribute_label": "No of Pieces"
+                                },
+                                {
+                                    "attribute_id": 569,
+                                    "attribute_value": "11729 U01",
+                                    "attribute_code": "model_no",
+                                    "attribute_type": "text",
+                                    "is_swatch": false,
+                                    "attribute_label": "Model No"
+                                },
+                                {
+                                    "attribute_id": 1106,
+                                    "attribute_value": null,
+                                    "attribute_code": "pattern",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Pattern"
+                                },
+                                {
+                                    "attribute_id": 950,
+                                    "attribute_value": "581",
+                                    "attribute_code": "shape",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Shape"
+                                },
+                                {
+                                    "attribute_id": 581,
+                                    "attribute_value": "Rugs",
+                                    "attribute_code": "item_includes",
+                                    "attribute_type": "text",
+                                    "is_swatch": false,
+                                    "attribute_label": "Item Includes"
+                                },
+                                {
+                                    "attribute_id": 980,
+                                    "attribute_value": null,
+                                    "attribute_code": "why_we_love_it",
+                                    "attribute_type": "textarea",
+                                    "is_swatch": false,
+                                    "attribute_label": "Why We Love It"
+                                },
+                                {
+                                    "attribute_id": 881,
+                                    "attribute_value": null,
+                                    "attribute_code": "decor_tips",
+                                    "attribute_type": "textarea",
+                                    "is_swatch": false,
+                                    "attribute_label": "Decor Tips"
+                                },
+                                {
+                                    "attribute_id": 896,
+                                    "attribute_value": null,
+                                    "attribute_code": "warranty_info",
+                                    "attribute_type": "textarea",
+                                    "is_swatch": false,
+                                    "attribute_label": "Warranty Information"
+                                },
+                                {
+                                    "attribute_id": 1226,
+                                    "attribute_value": null,
+                                    "attribute_code": "buying_guide",
+                                    "attribute_type": "textarea",
+                                    "is_swatch": false,
+                                    "attribute_label": "Buying Guide"
+                                },
+                                {
+                                    "attribute_id": 1223,
+                                    "attribute_value": null,
+                                    "attribute_code": "detailed_dimension",
+                                    "attribute_type": "textarea",
+                                    "is_swatch": false,
+                                    "attribute_label": "Detailed Dimension "
+                                }
+                            ],
+                            "custom_options": [],
+                            "meta_title": null,
+                            "meta_keyword": null,
+                            "canonical_url": "https://danubehome.com/ae/en/modern-carpet-rug-rhapsody-160x230-11729-u01",
+                            "meta_description": null,
+                            "is_linked_to_grouped_product": false,
+                            "linked_grouped_product_info": {
+                                "linked_products": [],
+                                "main_grouped_product": null
+                            },
+                            "description": {
+                                "html": ""
+                            },
+                            "media_gallery_entries": [{
+                                    "id": 142418,
+                                    "file": "/2/3/231304700141.jpg",
+                                    "label": null,
+                                    "position": 1,
+                                    "disabled": false,
+                                    "media_type": "image",
+                                    "types": [
+                                        "image",
+                                        "small_image",
+                                        "thumbnail",
+                                        "swatch_image"
+                                    ],
+                                    "thumbnail": {
+                                        "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141.jpg"
+                                    },
+                                    "video_content": null
+                                },
+                                {
+                                    "id": 142421,
+                                    "file": "/2/3/231304700141-1.jpg",
+                                    "label": null,
+                                    "position": 2,
+                                    "disabled": false,
+                                    "media_type": "image",
+                                    "types": [
+                                        "card_slideshow_1"
+                                    ],
+                                    "thumbnail": {
+                                        "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141-1.jpg"
+                                    },
+                                    "video_content": null
+                                },
+                                {
+                                    "id": 142424,
+                                    "file": "/2/3/231304700141-2.jpg",
+                                    "label": null,
+                                    "position": 3,
+                                    "disabled": false,
+                                    "media_type": "image",
+                                    "types": [
+                                        "card_slideshow_2"
+                                    ],
+                                    "thumbnail": {
+                                        "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141-2.jpg"
+                                    },
+                                    "video_content": null
+                                },
+                                {
+                                    "id": 142427,
+                                    "file": "/2/3/231304700141-3.jpg",
+                                    "label": null,
+                                    "position": 4,
+                                    "disabled": false,
+                                    "media_type": "image",
+                                    "types": [
+                                        "card_slideshow_3"
+                                    ],
+                                    "thumbnail": {
+                                        "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141-3.jpg"
+                                    },
+                                    "video_content": null
+                                },
+                                {
+                                    "id": 142430,
+                                    "file": "/2/3/231304700141-4.jpg",
+                                    "label": null,
+                                    "position": 5,
+                                    "disabled": false,
+                                    "media_type": "image",
+                                    "types": [
+                                        "card_slideshow_4"
+                                    ],
+                                    "thumbnail": {
+                                        "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141-4.jpg"
+                                    },
+                                    "video_content": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "product": {
+                            "id": 46934,
+                            "sku": "231304700142",
+                            "name": "Modern Carpet Rug Rhapsody 200X290 - 11729 U01",
+                            "type_id": "simple",
+                            "stock_status": "IN_STOCK",
+                            "special_price": 1091.25,
+                            "reviewImages": [],
+                            "hello_ar_product_code": [],
+                            "delivery_days": null,
+                            "is_returnable": "1",
+                            "product_variant": [{
+                                "label": "Color Family",
+                                "url": "https://mcstaging.danubehome.com/media/product/attribute/images/yqcmu1629192670color-pale.png",
+                                "value": "Multi Color"
+                            }],
+                            "card_slideshow": [{
+                                    "label": null,
+                                    "path": "/2/3/231304700141-1.jpg",
+                                    "url": "https://danubehome.com/media/catalog/product/cache/9a3f97fb4022dc0344b8f4ff8bd922de/2/3/231304700141-1.jpg"
+                                },
+                                {
+                                    "label": null,
+                                    "path": "/2/3/231304700141-2.jpg",
+                                    "url": "https://danubehome.com/media/catalog/product/cache/9a3f97fb4022dc0344b8f4ff8bd922de/2/3/231304700141-2.jpg"
+                                },
+                                {
+                                    "label": null,
+                                    "path": "/2/3/231304700141-3.jpg",
+                                    "url": "https://danubehome.com/media/catalog/product/cache/9a3f97fb4022dc0344b8f4ff8bd922de/2/3/231304700141-3.jpg"
+                                },
+                                {
+                                    "label": null,
+                                    "path": "/2/3/231304700141-4.jpg",
+                                    "url": "https://danubehome.com/media/catalog/product/cache/9a3f97fb4022dc0344b8f4ff8bd922de/2/3/231304700141-4.jpg"
+                                }
+                            ],
+                            "product_details": [{
+                                    "label": "Installation Type",
+                                    "value": "Installation Not Required",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Brand",
+                                    "value": "Danube Home",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Rugs Style",
+                                    "value": "Modern",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Dimension",
+                                    "value": "W200 X L290 cm",
+                                    "url": "https://mcstaging.danubehome.com/media/product/attribute/images/dhbsx1629191525dimension-.png"
+                                },
+                                {
+                                    "label": "Carpet Size",
+                                    "value": "W200 X L290",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Color Family",
+                                    "value": "Multi Color",
+                                    "url": "https://mcstaging.danubehome.com/media/product/attribute/images/yqcmu1629192670color-pale.png"
+                                },
+                                {
+                                    "label": "Material",
+                                    "value": "Polypropylene",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "No of Pieces",
+                                    "value": "1",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Model No",
+                                    "value": "11729 U01",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Shape",
+                                    "value": "Rectangle",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                },
+                                {
+                                    "label": "Item Includes",
+                                    "value": "Rugs",
+                                    "url": "https://danubehome.com/media/catalog/product/attribute/placeholder/"
+                                }
+                            ],
+                            "only_x_left_in_stock": null,
+                            "pricing": {
+                                "discount": 25,
+                                "salable_quantity": 25,
+                                "you_save": 363.75,
+                                "alhan_points": null
+                            },
+                            "related_products": [{
+                                    "sku": "231300457474",
+                                    "name": "Rugs Cpc Lp Elmas 150X230 Black Gold 00603"
+                                },
+                                {
+                                    "sku": "231300460991",
+                                    "name": "Rugs Cp21 Mahal 150X230 D322 - Grey Pink"
+                                },
+                                {
+                                    "sku": "231300461039",
+                                    "name": "Rugs Cp21 Namaz 150X230 D072 - Grey"
+                                },
+                                {
+                                    "sku": "231300461029",
+                                    "name": "Rugs Cp21 Shelk 200X300 D065 - Daisy Gold"
+                                },
+                                {
+                                    "sku": "231300461012",
+                                    "name": "Rugs Cp21 Abusan 150X230 D327 - Grey Mustard"
+                                },
+                                {
+                                    "sku": "231300461026",
+                                    "name": "Rugs Cp21 Almaz 200X300 D498 - Daisy Pink"
+                                },
+                                {
+                                    "sku": "231300461051",
+                                    "name": "Rugs Cp25 Guzel 150X230 D148 - Red"
+                                },
+                                {
+                                    "sku": "231300461003",
+                                    "name": "Rugs Cp21 Abusan 150X230 D327 - Daisy Mustard"
+                                },
+                                {
+                                    "sku": "231300461036",
+                                    "name": "Rugs Cp21 Shelk 150X230 D065 - Daisy Pink"
+                                },
+                                {
+                                    "sku": "231300461045",
+                                    "name": "Rugs Cp21 Namaz 150X230 D072 - Beige"
+                                },
+                                {
+                                    "sku": "231300460994",
+                                    "name": "Rugs Cp21 Mahal 150X230 D322 - Grey Multi"
+                                },
+                                {
+                                    "sku": "231300461030",
+                                    "name": "Rugs Cp21 Shelk 150X230 D065 - Daisy Gold"
+                                },
+                                {
+                                    "sku": "231300461014",
+                                    "name": "Rugs Cp21 Almaz 200X300 D498 - Grey Mustard"
+                                },
+                                {
+                                    "sku": "231300461048",
+                                    "name": "Rugs Cp22 Guzel 150X230 D148 - Green"
+                                },
+                                {
+                                    "sku": "231300461054",
+                                    "name": "Rugs Cp28 Guzel 150X230 D148 - Beige"
+                                },
+                                {
+                                    "sku": "231300461009",
+                                    "name": "Rugs Cp21 Abusan 150X230 D327 - Grey Navy"
+                                },
+                                {
+                                    "sku": "231300461017",
+                                    "name": "Rugs Cp21 Almaz 200X300 D498 - Daisy Mustard"
+                                },
+                                {
+                                    "sku": "231300461033",
+                                    "name": "Rugs Cp21 Shelk 150X230 D065 - Daisy Blue"
+                                },
+                                {
+                                    "sku": "231300461002",
+                                    "name": "Rugs Cp21 Abusan 200X300 D327 - Daisy Mustard"
+                                },
+                                {
+                                    "sku": "231300457478",
+                                    "name": "Rugs Cpc Lp Elmas 100X300 Grey Gold 00603"
+                                }
+                            ],
+                            "upsell_products": [],
+                            "tier_prices": [],
+                            "price": {
+                                "minimalPrice": {
+                                    "amount": {
+                                        "value": 1091.25,
+                                        "currency": "AED"
+                                    }
+                                },
+                                "regularPrice": {
+                                    "amount": {
+                                        "value": 1455,
+                                        "currency": "AED"
+                                    }
+                                }
+                            },
+                            "breadcrumbs": [],
+                            "thumbnail": {
+                                "url": "https://danubehome.com/media/catalog/product/cache/791856a0cde4f5a194b9d5d7de8b3d94/2/3/231304700141.jpg",
+                                "path": "/2/3/231304700141.jpg",
+                                "label": "Modern Carpet Rug Rhapsody 200X290 - 11729 U01"
+                            },
+                            "categories": [{
+                                    "name": "Furnishings",
+                                    "url_path": "furnishings",
+                                    "url_key": "furnishings",
+                                    "breadcrumbs": null
+                                },
+                                {
+                                    "name": "Floor Covering",
+                                    "url_path": "furnishings/floor-covering",
+                                    "url_key": "floor-covering",
+                                    "breadcrumbs": [{
+                                        "category_name": "Furnishings",
+                                        "category_url_key": "furnishings"
+                                    }]
+                                },
+                                {
+                                    "name": "Carpets & Rugs",
+                                    "url_path": "furnishings/floor-covering/carpets-rugs",
+                                    "url_key": "carpets-rugs",
+                                    "breadcrumbs": [{
+                                            "category_name": "Furnishings",
+                                            "category_url_key": "furnishings"
+                                        },
+                                        {
+                                            "category_name": "Floor Covering",
+                                            "category_url_key": "floor-covering"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "short_description": {
+                                "html": ""
+                            },
+                            "attributes": [{
+                                    "attribute_id": 893,
+                                    "attribute_value": "383",
+                                    "attribute_code": "warranty",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Warranty"
+                                },
+                                {
+                                    "attribute_id": 545,
+                                    "attribute_value": "4",
+                                    "attribute_code": "installation_type",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Installation Type"
+                                },
+                                {
+                                    "attribute_id": 1010,
+                                    "attribute_value": "986",
+                                    "attribute_code": "brand",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Brand"
+                                },
+                                {
+                                    "attribute_id": 554,
+                                    "attribute_value": "Rugs",
+                                    "attribute_code": "item_category",
+                                    "attribute_type": "text",
+                                    "is_swatch": false,
+                                    "attribute_label": "Item Category"
+                                },
+                                {
+                                    "attribute_id": 1403,
+                                    "attribute_value": "1667",
+                                    "attribute_code": "rugs_style",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Rugs Style"
+                                },
+                                {
+                                    "attribute_id": 551,
+                                    "attribute_value": "W200 X L290 cm",
+                                    "attribute_code": "dimension",
+                                    "attribute_type": "text",
+                                    "is_swatch": false,
+                                    "attribute_label": "Dimension"
+                                },
+                                {
+                                    "attribute_id": 1400,
+                                    "attribute_value": "1661",
+                                    "attribute_code": "carpet_size",
+                                    "attribute_type": "select",
+                                    "is_swatch": true,
+                                    "attribute_label": "Carpet Size"
+                                },
+                                {
+                                    "attribute_id": 278,
+                                    "attribute_value": "713",
+                                    "attribute_code": "color",
+                                    "attribute_type": "select",
+                                    "is_swatch": true,
+                                    "attribute_label": "Color Family"
+                                },
+                                {
+                                    "attribute_id": 587,
+                                    "attribute_value": "Polypropylene",
+                                    "attribute_code": "material",
+                                    "attribute_type": "text",
+                                    "is_swatch": false,
+                                    "attribute_label": "Material"
+                                },
+                                {
+                                    "attribute_id": 1112,
+                                    "attribute_value": null,
+                                    "attribute_code": "secondary_material",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Secondary Material"
+                                },
+                                {
+                                    "attribute_id": 674,
+                                    "attribute_value": "1",
+                                    "attribute_code": "no_of_pieces",
+                                    "attribute_type": "text",
+                                    "is_swatch": false,
+                                    "attribute_label": "No of Pieces"
+                                },
+                                {
+                                    "attribute_id": 569,
+                                    "attribute_value": "11729 U01",
+                                    "attribute_code": "model_no",
+                                    "attribute_type": "text",
+                                    "is_swatch": false,
+                                    "attribute_label": "Model No"
+                                },
+                                {
+                                    "attribute_id": 1106,
+                                    "attribute_value": null,
+                                    "attribute_code": "pattern",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Pattern"
+                                },
+                                {
+                                    "attribute_id": 950,
+                                    "attribute_value": "581",
+                                    "attribute_code": "shape",
+                                    "attribute_type": "select",
+                                    "is_swatch": false,
+                                    "attribute_label": "Shape"
+                                },
+                                {
+                                    "attribute_id": 581,
+                                    "attribute_value": "Rugs",
+                                    "attribute_code": "item_includes",
+                                    "attribute_type": "text",
+                                    "is_swatch": false,
+                                    "attribute_label": "Item Includes"
+                                },
+                                {
+                                    "attribute_id": 980,
+                                    "attribute_value": null,
+                                    "attribute_code": "why_we_love_it",
+                                    "attribute_type": "textarea",
+                                    "is_swatch": false,
+                                    "attribute_label": "Why We Love It"
+                                },
+                                {
+                                    "attribute_id": 881,
+                                    "attribute_value": null,
+                                    "attribute_code": "decor_tips",
+                                    "attribute_type": "textarea",
+                                    "is_swatch": false,
+                                    "attribute_label": "Decor Tips"
+                                },
+                                {
+                                    "attribute_id": 896,
+                                    "attribute_value": null,
+                                    "attribute_code": "warranty_info",
+                                    "attribute_type": "textarea",
+                                    "is_swatch": false,
+                                    "attribute_label": "Warranty Information"
+                                },
+                                {
+                                    "attribute_id": 1226,
+                                    "attribute_value": null,
+                                    "attribute_code": "buying_guide",
+                                    "attribute_type": "textarea",
+                                    "is_swatch": false,
+                                    "attribute_label": "Buying Guide"
+                                },
+                                {
+                                    "attribute_id": 1223,
+                                    "attribute_value": null,
+                                    "attribute_code": "detailed_dimension",
+                                    "attribute_type": "textarea",
+                                    "is_swatch": false,
+                                    "attribute_label": "Detailed Dimension "
+                                }
+                            ],
+                            "custom_options": [],
+                            "meta_title": null,
+                            "meta_keyword": null,
+                            "canonical_url": "https://danubehome.com/ae/en/modern-carpet-rug-rhapsody-200x290-11729-u01",
+                            "meta_description": null,
+                            "is_linked_to_grouped_product": false,
+                            "linked_grouped_product_info": {
+                                "linked_products": [],
+                                "main_grouped_product": null
+                            },
+                            "description": {
+                                "html": ""
+                            },
+                            "media_gallery_entries": [{
+                                    "id": 142433,
+                                    "file": "/2/3/231304700141.jpg",
+                                    "label": null,
+                                    "position": 1,
+                                    "disabled": false,
+                                    "media_type": "image",
+                                    "types": [
+                                        "image",
+                                        "small_image",
+                                        "thumbnail",
+                                        "swatch_image"
+                                    ],
+                                    "thumbnail": {
+                                        "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141.jpg"
+                                    },
+                                    "video_content": null
+                                },
+                                {
+                                    "id": 142436,
+                                    "file": "/2/3/231304700141-1.jpg",
+                                    "label": null,
+                                    "position": 2,
+                                    "disabled": false,
+                                    "media_type": "image",
+                                    "types": [
+                                        "card_slideshow_1"
+                                    ],
+                                    "thumbnail": {
+                                        "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141-1.jpg"
+                                    },
+                                    "video_content": null
+                                },
+                                {
+                                    "id": 142439,
+                                    "file": "/2/3/231304700141-2.jpg",
+                                    "label": null,
+                                    "position": 3,
+                                    "disabled": false,
+                                    "media_type": "image",
+                                    "types": [
+                                        "card_slideshow_2"
+                                    ],
+                                    "thumbnail": {
+                                        "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141-2.jpg"
+                                    },
+                                    "video_content": null
+                                },
+                                {
+                                    "id": 142442,
+                                    "file": "/2/3/231304700141-3.jpg",
+                                    "label": null,
+                                    "position": 4,
+                                    "disabled": false,
+                                    "media_type": "image",
+                                    "types": [
+                                        "card_slideshow_3"
+                                    ],
+                                    "thumbnail": {
+                                        "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141-3.jpg"
+                                    },
+                                    "video_content": null
+                                },
+                                {
+                                    "id": 142445,
+                                    "file": "/2/3/231304700141-4.jpg",
+                                    "label": null,
+                                    "position": 5,
+                                    "disabled": false,
+                                    "media_type": "image",
+                                    "types": [
+                                        "card_slideshow_4"
+                                    ],
+                                    "thumbnail": {
+                                        "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141-4.jpg"
+                                    },
+                                    "video_content": null
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "meta_title": "Modern Carpet Rug Rhapsody - 11729 U01",
+                "meta_keyword": "Modern Carpet Rug Rhapsody - 11729 U01",
+                "canonical_url": "https://danubehome.com/ae/en/modern-carpet-rug-rhapsody-11729-u01",
+                "meta_description": "Modern Carpet Rug Rhapsody - 11729 U01 ",
+                "is_linked_to_grouped_product": false,
+                "linked_grouped_product_info": {
+                    "linked_products": [],
+                    "main_grouped_product": null
+                },
+                "description": {
+                    "html": ""
+                },
+                "media_gallery_entries": [{
+                        "id": 143663,
+                        "file": "/2/3/231304700141_1.jpg",
+                        "label": null,
+                        "position": 0,
+                        "disabled": false,
+                        "media_type": "image",
+                        "types": [
+                            "card_slideshow_1"
+                        ],
+                        "thumbnail": {
+                            "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141_1.jpg"
+                        },
+                        "video_content": null
+                    },
+                    {
+                        "id": 143669,
+                        "file": "/2/3/231304700141-2_1.jpg",
+                        "label": null,
+                        "position": 2,
+                        "disabled": false,
+                        "media_type": "image",
+                        "types": [
+                            "card_slideshow_2"
+                        ],
+                        "thumbnail": {
+                            "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141-2_1.jpg"
+                        },
+                        "video_content": null
+                    },
+                    {
+                        "id": 143672,
+                        "file": "/2/3/231304700141-3_1.jpg",
+                        "label": null,
+                        "position": 3,
+                        "disabled": false,
+                        "media_type": "image",
+                        "types": [
+                            "card_slideshow_3"
+                        ],
+                        "thumbnail": {
+                            "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141-3_1.jpg"
+                        },
+                        "video_content": null
+                    },
+                    {
+                        "id": 143675,
+                        "file": "/2/3/231304700141-4_1.jpg",
+                        "label": null,
+                        "position": 4,
+                        "disabled": false,
+                        "media_type": "image",
+                        "types": [
+                            "card_slideshow_4"
+                        ],
+                        "thumbnail": {
+                            "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141-4_1.jpg"
+                        },
+                        "video_content": null
+                    },
+                    {
+                        "id": 143678,
+                        "file": "/2/3/231304700141-a.jpg",
+                        "label": null,
+                        "position": 0,
+                        "disabled": false,
+                        "media_type": "image",
+                        "types": [
+                            "image",
+                            "small_image",
+                            "thumbnail"
+                        ],
+                        "thumbnail": {
+                            "url": "https://danubehome.com/media/catalog/product/cache/942b0f2f4dedbe3d267e05b17fba8272/2/3/231304700141-a.jpg"
+                        },
+                        "video_content": null
+                    }
+                ],
+                "reviews": [],
+                "product_links": []
+            }],
+            "page_info": {
+                "current_page": 1,
+                "total_pages": 1
+            }
+        }
+    }
+}

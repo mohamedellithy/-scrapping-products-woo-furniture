@@ -1,0 +1,796 @@
+https: //www.postman.com/lkbansal1993/workspace/magento-api/request/5553304-163c297e-e594-431e-88f3-1aa4f6c305ee
+    "data": {
+        "items": {
+            "2256": {
+                "add_to_cart_button": {
+                    "post_data": "{\"action\":\"https:\\\/\\\/www.marinahomeinteriors.com\\\/checkout\\\/cart\\\/add\\\/uenc\\\/%25uenc%25\\\/product\\\/2256\\\/\",\"data\":{\"product\":\"2256\",\"uenc\":\"%uenc%\"}}",
+                    "url": "https:\/\/www.marinahomeinteriors.com\/checkout\/cart\/add\/uenc\/%25uenc%25\/product\/2256\/",
+                    "required_options": false
+                },
+                "add_to_compare_button": {
+                    "post_data": null,
+                    "url": "{\"action\":\"https:\\\/\\\/www.marinahomeinteriors.com\\\/catalog\\\/product_compare\\\/add\\\/\",\"data\":{\"product\":\"2256\",\"uenc\":\"aHR0cHM6Ly93d3cubWFyaW5haG9tZWludGVyaW9ycy5jb20vc2FsZS9zdW1vLXNlY3Rpb25hbC1zb2ZhLW11bHRpY29sb3ItZmFicmljLWhhbDkyNjIuaHRtbA,,\"}}",
+                    "required_options": null
+                },
+                "price_info": {
+                    "final_price": 16125,
+                    "max_price": 16125,
+                    "max_regular_price": 16125,
+                    "minimal_regular_price": 16125,
+                    "special_price": null,
+                    "minimal_price": 16125,
+                    "regular_price": 21500,
+                    "formatted_prices": {
+                        "final_price": "<span class=\"price\">AED 16,125<\/span>",
+                        "max_price": "<span class=\"price\">AED 16,125<\/span>",
+                        "minimal_price": "<span class=\"price\">AED 16,125<\/span>",
+                        "max_regular_price": "<span class=\"price\">AED 16,125<\/span>",
+                        "minimal_regular_price": null,
+                        "special_price": null,
+                        "regular_price": "<span class=\"price\">AED 21,500<\/span>"
+                    },
+                    "extension_attributes": {
+                        "msrp": {
+                            "msrp_price": "<span class=\"price\">AED 0<\/span>",
+                            "is_applicable": "",
+                            "is_shown_price_on_gesture": "",
+                            "msrp_message": "",
+                            "explanation_message": "Our price is lower than the manufacturer&#039;s &quot;minimum advertised price.&quot; As a result, we cannot show you the price in catalog or the product page. <br><br> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart."
+                        },
+                        "tax_adjustments": {
+                            "final_price": 15357.142856143,
+                            "max_price": 15357.142856143,
+                            "max_regular_price": 15357.142856143,
+                            "minimal_regular_price": 15357.142856143,
+                            "special_price": 15357.142856143,
+                            "minimal_price": 15357.142856143,
+                            "regular_price": 20476.19047519,
+                            "formatted_prices": {
+                                "final_price": "<span class=\"price\">AED 15,357<\/span>",
+                                "max_price": "<span class=\"price\">AED 15,357<\/span>",
+                                "minimal_price": "<span class=\"price\">AED 15,357<\/span>",
+                                "max_regular_price": "<span class=\"price\">AED 15,357<\/span>",
+                                "minimal_regular_price": null,
+                                "special_price": "<span class=\"price\">AED 15,357<\/span>",
+                                "regular_price": "<span class=\"price\">AED 20,476<\/span>"
+                            }
+                        },
+                        "weee_attributes": [],
+                        "weee_adjustment": "<span class=\"price\">AED 16,125<\/span>"
+                    }
+                },
+                "images": [{
+                        "url": "https:\/\/prod.gumlet.io\/media\/catalog\/product\/cache\/f6fc6d828e776dc7f7d6cee0461e428f\/h\/a\/hal9262_01.jpg",
+                        "code": "recently_viewed_products_grid_content_widget",
+                        "height": 300,
+                        "width": 240,
+                        "label": "HAL9262",
+                        "resized_width": 240,
+                        "resized_height": 300
+                    },
+                    {
+                        "url": "https:\/\/prod.gumlet.io\/media\/catalog\/product\/cache\/bad9d19d4de08ba3417eacff4f66c678\/h\/a\/hal9262_01.jpg",
+                        "code": "recently_viewed_products_list_content_widget",
+                        "height": 270,
+                        "width": 270,
+                        "label": "HAL9262",
+                        "resized_width": 270,
+                        "resized_height": 270
+                    },
+                    {
+                        "url": "https:\/\/prod.gumlet.io\/media\/catalog\/product\/cache\/38522feb178db09f95340097c0513c76\/h\/a\/hal9262_01.jpg",
+                        "code": "recently_viewed_products_images_names_widget",
+                        "height": 90,
+                        "width": 75,
+                        "label": "HAL9262",
+                        "resized_width": 75,
+                        "resized_height": 90
+                    },
+                    {
+                        "url": "https:\/\/prod.gumlet.io\/media\/catalog\/product\/cache\/f6fc6d828e776dc7f7d6cee0461e428f\/h\/a\/hal9262_01.jpg",
+                        "code": "recently_compared_products_grid_content_widget",
+                        "height": 300,
+                        "width": 240,
+                        "label": "HAL9262",
+                        "resized_width": 240,
+                        "resized_height": 300
+                    },
+                    {
+                        "url": "https:\/\/prod.gumlet.io\/media\/catalog\/product\/cache\/938e3ac9a73aac1bf02a38c02990c5d8\/h\/a\/hal9262_01.jpg",
+                        "code": "recently_compared_products_list_content_widget",
+                        "height": 207,
+                        "width": 270,
+                        "label": "HAL9262",
+                        "resized_width": 270,
+                        "resized_height": 207
+                    },
+                    {
+                        "url": "https:\/\/prod.gumlet.io\/media\/catalog\/product\/cache\/38522feb178db09f95340097c0513c76\/h\/a\/hal9262_01.jpg",
+                        "code": "recently_compared_products_images_names_widget",
+                        "height": 90,
+                        "width": 75,
+                        "label": "HAL9262",
+                        "resized_width": 75,
+                        "resized_height": 90
+                    }
+                ],
+                "url": "https:\/\/www.marinahomeinteriors.com\/sumo-sectional-sofa-multicolor-fabric-hal9262.html",
+                "id": 2256,
+                "name": "SUMO SECTIONAL SOFA",
+                "type": "simple",
+                "is_salable": "1",
+                "store_id": 1,
+                "currency_code": "AED",
+                "extension_attributes": {
+                    "review_html": " ",
+                    "wishlist_button": {
+                        "post_data": null,
+                        "url": "{\"action\":\"https:\\\/\\\/www.marinahomeinteriors.com\\\/wishlist\\\/index\\\/add\\\/\",\"data\":{\"product\":2256,\"uenc\":\"aHR0cHM6Ly93d3cubWFyaW5haG9tZWludGVyaW9ycy5jb20vc2FsZS9zdW1vLXNlY3Rpb25hbC1zb2ZhLW11bHRpY29sb3ItZmFicmljLWhhbDkyNjIuaHRtbA,,\"}}",
+                        "required_options": null
+                    }
+                },
+                "is_available": true
+            }
+        },
+        "store": "1",
+        "currency": "AED",
+        "productCurrentScope": "website"
+    }
+
+
+
+
+"data": {
+    "items": {
+        "664": {
+            "add_to_cart_button": {
+                "post_data": "{\"action\":\"https:\\\/\\\/www.marinahomeinteriors.com\\\/checkout\\\/cart\\\/add\\\/uenc\\\/%25uenc%25\\\/product\\\/664\\\/\",\"data\":{\"product\":\"664\",\"uenc\":\"%uenc%\"}}",
+                "url": "https:\/\/www.marinahomeinteriors.com\/checkout\/cart\/add\/uenc\/%25uenc%25\/product\/664\/",
+                "required_options": false
+            },
+            "add_to_compare_button": {
+                "post_data": null,
+                "url": "{\"action\":\"https:\\\/\\\/www.marinahomeinteriors.com\\\/catalog\\\/product_compare\\\/add\\\/\",\"data\":{\"product\":\"664\",\"uenc\":\"aHR0cHM6Ly93d3cubWFyaW5haG9tZWludGVyaW9ycy5jb20vc2hvcC1ieS1zdHlsZS9yb3hhbm5lLXNvZmEtd2hpdGUtZmFicmljLWJlYTIyNTcuaHRtbA,,\"}}",
+                "required_options": null
+            },
+            "price_info": {
+                "final_price": 6250,
+                "max_price": 6250,
+                "max_regular_price": 6250,
+                "minimal_regular_price": 6250,
+                "special_price": null,
+                "minimal_price": 6250,
+                "regular_price": 6250,
+                "formatted_prices": {
+                    "final_price": "<span class=\"price\">AED 6,250<\/span>",
+                    "max_price": "<span class=\"price\">AED 6,250<\/span>",
+                    "minimal_price": "<span class=\"price\">AED 6,250<\/span>",
+                    "max_regular_price": "<span class=\"price\">AED 6,250<\/span>",
+                    "minimal_regular_price": null,
+                    "special_price": null,
+                    "regular_price": "<span class=\"price\">AED 6,250<\/span>"
+                },
+                "extension_attributes": {
+                    "msrp": {
+                        "msrp_price": "<span class=\"price\">AED 0<\/span>",
+                        "is_applicable": "",
+                        "is_shown_price_on_gesture": "",
+                        "msrp_message": "",
+                        "explanation_message": "Our price is lower than the manufacturer&#039;s &quot;minimum advertised price.&quot; As a result, we cannot show you the price in catalog or the product page. <br><br> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart."
+                    },
+                    "tax_adjustments": {
+                        "final_price": 5952.380951381,
+                        "max_price": 5952.380951381,
+                        "max_regular_price": 5952.380951381,
+                        "minimal_regular_price": 5952.380951381,
+                        "special_price": 5952.380951381,
+                        "minimal_price": 5952.380951381,
+                        "regular_price": 5952.380951381,
+                        "formatted_prices": {
+                            "final_price": "<span class=\"price\">AED 5,952<\/span>",
+                            "max_price": "<span class=\"price\">AED 5,952<\/span>",
+                            "minimal_price": "<span class=\"price\">AED 5,952<\/span>",
+                            "max_regular_price": "<span class=\"price\">AED 5,952<\/span>",
+                            "minimal_regular_price": null,
+                            "special_price": "<span class=\"price\">AED 5,952<\/span>",
+                            "regular_price": "<span class=\"price\">AED 5,952<\/span>"
+                        }
+                    },
+                    "weee_attributes": [],
+                    "weee_adjustment": "<span class=\"price\">AED 6,250<\/span>"
+                }
+            },
+            "images": [{
+                    "url": "https:\/\/prod.gumlet.io\/media\/catalog\/product\/cache\/f6fc6d828e776dc7f7d6cee0461e428f\/b\/e\/bea2257_01_1.jpg",
+                    "code": "recently_viewed_products_grid_content_widget",
+                    "height": 300,
+                    "width": 240,
+                    "label": "BEA2257",
+                    "resized_width": 240,
+                    "resized_height": 300
+                },
+                {
+                    "url": "https:\/\/prod.gumlet.io\/media\/catalog\/product\/cache\/bad9d19d4de08ba3417eacff4f66c678\/b\/e\/bea2257_01_1.jpg",
+                    "code": "recently_viewed_products_list_content_widget",
+                    "height": 270,
+                    "width": 270,
+                    "label": "BEA2257",
+                    "resized_width": 270,
+                    "resized_height": 270
+                },
+                {
+                    "url": "https:\/\/prod.gumlet.io\/media\/catalog\/product\/cache\/38522feb178db09f95340097c0513c76\/b\/e\/bea2257_01_1.jpg",
+                    "code": "recently_viewed_products_images_names_widget",
+                    "height": 90,
+                    "width": 75,
+                    "label": "BEA2257",
+                    "resized_width": 75,
+                    "resized_height": 90
+                },
+                {
+                    "url": "https:\/\/prod.gumlet.io\/media\/catalog\/product\/cache\/f6fc6d828e776dc7f7d6cee0461e428f\/b\/e\/bea2257_01_1.jpg",
+                    "code": "recently_compared_products_grid_content_widget",
+                    "height": 300,
+                    "width": 240,
+                    "label": "BEA2257",
+                    "resized_width": 240,
+                    "resized_height": 300
+                },
+                {
+                    "url": "https:\/\/prod.gumlet.io\/media\/catalog\/product\/cache\/938e3ac9a73aac1bf02a38c02990c5d8\/b\/e\/bea2257_01_1.jpg",
+                    "code": "recently_compared_products_list_content_widget",
+                    "height": 207,
+                    "width": 270,
+                    "label": "BEA2257",
+                    "resized_width": 270,
+                    "resized_height": 207
+                },
+                {
+                    "url": "https:\/\/prod.gumlet.io\/media\/catalog\/product\/cache\/38522feb178db09f95340097c0513c76\/b\/e\/bea2257_01_1.jpg",
+                    "code": "recently_compared_products_images_names_widget",
+                    "height": 90,
+                    "width": 75,
+                    "label": "BEA2257",
+                    "resized_width": 75,
+                    "resized_height": 90
+                }
+            ],
+            "url": "https:\/\/www.marinahomeinteriors.com\/roxanne-sofa-white-fabric-bea2257.html",
+            "id": 664,
+            "name": "ROXANNE SOFA ",
+            "type": "simple",
+            "is_salable": "1",
+            "store_id": 1,
+            "currency_code": "AED",
+            "extension_attributes": {
+                "review_html": " ",
+                "wishlist_button": {
+                    "post_data": null,
+                    "url": "{\"action\":\"https:\\\/\\\/www.marinahomeinteriors.com\\\/wishlist\\\/index\\\/add\\\/\",\"data\":{\"product\":664,\"uenc\":\"aHR0cHM6Ly93d3cubWFyaW5haG9tZWludGVyaW9ycy5jb20vc2hvcC1ieS1zdHlsZS9yb3hhbm5lLXNvZmEtd2hpdGUtZmFicmljLWJlYTIyNTcuaHRtbA,,\"}}",
+                    "required_options": null
+                }
+            },
+            "is_available": true
+        }
+    },
+    "store": "1",
+    "currency": "AED",
+    "productCurrentScope": "website"
+}
+}
+
+
+
+{
+    "items": [{
+            "id": 1359,
+            "sku": "BSB2001",
+            "name": "NOOR LANTERN",
+            "attribute_set_id": 9,
+            "price": 250,
+            "status": 1,
+            "visibility": 4,
+            "type_id": "simple",
+            "created_at": "2021-06-27 13:17:20",
+            "updated_at": "2022-02-15 12:57:37",
+            "weight": 3.5,
+            "extension_attributes": {
+                "website_ids": [
+                    1
+                ],
+                "category_links": [{
+                        "position": 0,
+                        "category_id": "175"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "113"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "60"
+                    }
+                ]
+            },
+            "product_links": [],
+            "options": [],
+            "media_gallery_entries": [{
+                    "id": 4275,
+                    "media_type": "image",
+                    "label": "NOOR LANTERN, GOLD color-1",
+                    "position": 1,
+                    "disabled": false,
+                    "types": [
+                        "image",
+                        "small_image",
+                        "thumbnail",
+                        "swatch_image"
+                    ],
+                    "file": "/b/s/bsb2001_01.jpg"
+                },
+                {
+                    "id": 4276,
+                    "media_type": "image",
+                    "label": "NOOR LANTERN, GOLD color-2",
+                    "position": 2,
+                    "disabled": false,
+                    "types": [],
+                    "file": "/b/s/bsb2001_02.jpg"
+                },
+                {
+                    "id": 4277,
+                    "media_type": "image",
+                    "label": "NOOR LANTERN, GOLD color-3",
+                    "position": 3,
+                    "disabled": false,
+                    "types": [],
+                    "file": "/b/s/bsb2001_03.jpg"
+                },
+                {
+                    "id": 4278,
+                    "media_type": "image",
+                    "label": "NOOR LANTERN, GOLD color-4",
+                    "position": 4,
+                    "disabled": false,
+                    "types": [],
+                    "file": "/b/s/bsb2001_04.jpg"
+                }
+            ],
+            "tier_prices": [],
+            "custom_attributes": [{
+                    "attribute_code": "show_dimensions",
+                    "value": "<ul>\n\n\n<li>HEIGHT 59 CM</li>\n\n<li>WIDTH 30.5 CM</li>\n\n<li>LENGTH 30.5 CM</li></ul>"
+                },
+                {
+                    "attribute_code": "image",
+                    "value": "/b/s/bsb2001_01.jpg"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "noor-lantern-gold-metal-bsb2001"
+                },
+                {
+                    "attribute_code": "special_price",
+                    "value": "185.000000"
+                },
+                {
+                    "attribute_code": "page_layout",
+                    "value": "1column"
+                },
+                {
+                    "attribute_code": "gift_message_available",
+                    "value": "2"
+                },
+                {
+                    "attribute_code": "product_care",
+                    "value": "The diverse shapes, designs and colors that Iron represents make it an essential part of furniture and decor.But it needs the right kind of care to maintain its look over the years.Clean it regularly with warm soapy water, making sure to dry it thoroughly soon after.You can also spray furniture polish on a soft cloth and apply a coat on the iron to prolong its life and help maintain its beauty and lustre."
+                },
+                {
+                    "attribute_code": "small_image",
+                    "value": "/b/s/bsb2001_01.jpg"
+                },
+                {
+                    "attribute_code": "meta_title",
+                    "value": "Buy online Noor Lantern, Gold, Metal - lanterns and candleholders | Marina Home Interiors UAE"
+                },
+                {
+                    "attribute_code": "special_from_date",
+                    "value": "2022-02-01 00:00:00"
+                },
+                {
+                    "attribute_code": "options_container",
+                    "value": "container2"
+                },
+                {
+                    "attribute_code": "am_shipping_type",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "thumbnail",
+                    "value": "/b/s/bsb2001_01.jpg"
+                },
+                {
+                    "attribute_code": "meta_keyword",
+                    "value": "Noor Lantern,Gold,Iron,Universal"
+                },
+                {
+                    "attribute_code": "country_of_manufacture",
+                    "value": "CN"
+                },
+                {
+                    "attribute_code": "custom_icon",
+                    "value": "<p><a class=\"custom_tooltip\" href=\"/\"><img src=\"https://marinahomeinteriors.com/pub/media/wysiwyg/icon3.svg\" alt=\"\" /><span class=\"custom_tooltiptext\">FRAGILE</span></a></p>"
+                },
+                {
+                    "attribute_code": "swatch_image",
+                    "value": "/b/s/bsb2001_01.jpg"
+                },
+                {
+                    "attribute_code": "meta_description",
+                    "value": "Explore online our bestseller Noor Lantern. Our striking gold metal Lantern is one of our decor favorites. Buy exclusive Marina Home lanterns and candleholders now."
+                },
+                {
+                    "attribute_code": "in_html_sitemap",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "tax_class_id",
+                    "value": "2"
+                },
+                {
+                    "attribute_code": "msrp_display_actual_price_type",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "category_ids",
+                    "value": [
+                        "175",
+                        "113",
+                        "60"
+                    ]
+                },
+                {
+                    "attribute_code": "use_in_crosslinking",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "in_xml_sitemap",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "required_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "has_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "sale",
+                    "value": "6836"
+                },
+                {
+                    "attribute_code": "image_label",
+                    "value": "BSB2001"
+                },
+                {
+                    "attribute_code": "category_main",
+                    "value": "6822"
+                },
+                {
+                    "attribute_code": "small_image_label",
+                    "value": "BSB2001"
+                },
+                {
+                    "attribute_code": "sub_category",
+                    "value": "6690"
+                },
+                {
+                    "attribute_code": "thumbnail_label",
+                    "value": "BSB2001"
+                },
+                {
+                    "attribute_code": "sub_category_ii",
+                    "value": "6781"
+                },
+                {
+                    "attribute_code": "color_f",
+                    "value": "6254"
+                },
+                {
+                    "attribute_code": "color",
+                    "value": "GOLD"
+                },
+                {
+                    "attribute_code": "material_f",
+                    "value": "5902"
+                },
+                {
+                    "attribute_code": "material",
+                    "value": "IRON,GLASS"
+                },
+                {
+                    "attribute_code": "finish",
+                    "value": "GOLD"
+                },
+                {
+                    "attribute_code": "genre",
+                    "value": "6638"
+                },
+                {
+                    "attribute_code": "featured",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "short_description",
+                    "value": " "
+                },
+                {
+                    "attribute_code": "description",
+                    "value": "Showcasing intricate patterns and impressive detailing, our beautiful antique gold Noor metal lantern is crafted from iron and glass. It is the perfect home for a candle on your dining table, or even outdoors on the terrace."
+                }
+            ]
+        },
+        {
+            "id": 1360,
+            "sku": "BSB2002",
+            "name": "NOOR LANTERN",
+            "attribute_set_id": 9,
+            "price": 185,
+            "status": 1,
+            "visibility": 4,
+            "type_id": "simple",
+            "created_at": "2021-06-27 13:17:20",
+            "updated_at": "2022-02-15 12:57:37",
+            "weight": 4.96,
+            "extension_attributes": {
+                "website_ids": [
+                    1
+                ],
+                "category_links": [{
+                        "position": 0,
+                        "category_id": "175"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "113"
+                    },
+                    {
+                        "position": 0,
+                        "category_id": "60"
+                    }
+                ]
+            },
+            "product_links": [],
+            "options": [],
+            "media_gallery_entries": [{
+                    "id": 4279,
+                    "media_type": "image",
+                    "label": "NOOR LANTERN, GOLD color-1",
+                    "position": 1,
+                    "disabled": false,
+                    "types": [
+                        "image",
+                        "small_image",
+                        "thumbnail",
+                        "swatch_image"
+                    ],
+                    "file": "/b/s/bsb2002_01.jpg"
+                },
+                {
+                    "id": 4280,
+                    "media_type": "image",
+                    "label": "NOOR LANTERN, GOLD color-2",
+                    "position": 2,
+                    "disabled": false,
+                    "types": [],
+                    "file": "/b/s/bsb2002_02.jpg"
+                },
+                {
+                    "id": 4281,
+                    "media_type": "image",
+                    "label": "NOOR LANTERN, GOLD color-3",
+                    "position": 3,
+                    "disabled": false,
+                    "types": [],
+                    "file": "/b/s/bsb2002_03.jpg"
+                },
+                {
+                    "id": 4282,
+                    "media_type": "image",
+                    "label": "NOOR LANTERN, GOLD color-4",
+                    "position": 4,
+                    "disabled": false,
+                    "types": [],
+                    "file": "/b/s/bsb2002_04.jpg"
+                }
+            ],
+            "tier_prices": [],
+            "custom_attributes": [{
+                    "attribute_code": "show_dimensions",
+                    "value": "<ul>\n\n\n<li>HEIGHT 51.5 CM</li>\n\n<li>WIDTH 24.5 CM</li>\n\n<li>LENGTH 24.5 CM</li></ul>"
+                },
+                {
+                    "attribute_code": "image",
+                    "value": "/b/s/bsb2002_01.jpg"
+                },
+                {
+                    "attribute_code": "url_key",
+                    "value": "noor-lantern-gold-metal-bsb2002"
+                },
+                {
+                    "attribute_code": "special_price",
+                    "value": "135.000000"
+                },
+                {
+                    "attribute_code": "page_layout",
+                    "value": "1column"
+                },
+                {
+                    "attribute_code": "gift_message_available",
+                    "value": "2"
+                },
+                {
+                    "attribute_code": "product_care",
+                    "value": "The diverse shapes, designs and colors that Iron represents make it an essential part of furniture and decor.But it needs the right kind of care to maintain its look over the years.Clean it regularly with warm soapy water, making sure to dry it thoroughly soon after.You can also spray furniture polish on a soft cloth and apply a coat on the iron to prolong its life and help maintain its beauty and lustre."
+                },
+                {
+                    "attribute_code": "small_image",
+                    "value": "/b/s/bsb2002_01.jpg"
+                },
+                {
+                    "attribute_code": "meta_title",
+                    "value": "Buy online Noor Lantern, Gold, Metal - lanterns and candleholders | Marina Home Interiors UAE"
+                },
+                {
+                    "attribute_code": "special_from_date",
+                    "value": "2022-02-01 00:00:00"
+                },
+                {
+                    "attribute_code": "options_container",
+                    "value": "container2"
+                },
+                {
+                    "attribute_code": "am_shipping_type",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "thumbnail",
+                    "value": "/b/s/bsb2002_01.jpg"
+                },
+                {
+                    "attribute_code": "meta_keyword",
+                    "value": "Noor Lantern,Gold,Iron,Universal"
+                },
+                {
+                    "attribute_code": "country_of_manufacture",
+                    "value": "CN"
+                },
+                {
+                    "attribute_code": "custom_icon",
+                    "value": "<p><a class=\"custom_tooltip\" href=\"/\"><img src=\"https://marinahomeinteriors.com/pub/media/wysiwyg/icon3.svg\" alt=\"\" /><span class=\"custom_tooltiptext\">FRAGILE</span></a></p>"
+                },
+                {
+                    "attribute_code": "swatch_image",
+                    "value": "/b/s/bsb2002_01.jpg"
+                },
+                {
+                    "attribute_code": "meta_description",
+                    "value": "Find online our distinctive Noor Lantern. Our bestseller gold metal Lantern is the perfect addition for your home. Buy exclusive Marina Home lanterns and candleholders now."
+                },
+                {
+                    "attribute_code": "in_html_sitemap",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "tax_class_id",
+                    "value": "2"
+                },
+                {
+                    "attribute_code": "msrp_display_actual_price_type",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "category_ids",
+                    "value": [
+                        "175",
+                        "113",
+                        "60"
+                    ]
+                },
+                {
+                    "attribute_code": "use_in_crosslinking",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "in_xml_sitemap",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "required_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "has_options",
+                    "value": "0"
+                },
+                {
+                    "attribute_code": "sale",
+                    "value": "6836"
+                },
+                {
+                    "attribute_code": "image_label",
+                    "value": "BSB2002"
+                },
+                {
+                    "attribute_code": "category_main",
+                    "value": "6822"
+                },
+                {
+                    "attribute_code": "small_image_label",
+                    "value": "BSB2002"
+                },
+                {
+                    "attribute_code": "sub_category",
+                    "value": "6690"
+                },
+                {
+                    "attribute_code": "thumbnail_label",
+                    "value": "BSB2002"
+                },
+                {
+                    "attribute_code": "sub_category_ii",
+                    "value": "6781"
+                },
+                {
+                    "attribute_code": "color_f",
+                    "value": "6254"
+                },
+                {
+                    "attribute_code": "color",
+                    "value": "GOLD"
+                },
+                {
+                    "attribute_code": "material_f",
+                    "value": "5902"
+                },
+                {
+                    "attribute_code": "material",
+                    "value": "IRON,GLASS"
+                },
+                {
+                    "attribute_code": "finish",
+                    "value": "GOLD"
+                },
+                {
+                    "attribute_code": "genre",
+                    "value": "6638"
+                },
+                {
+                    "attribute_code": "featured",
+                    "value": "1"
+                },
+                {
+                    "attribute_code": "short_description",
+                    "value": " "
+                },
+                {
+                    "attribute_code": "description",
+                    "value": "Showcasing intricate patterns and impressive detailing, our beautiful antique gold Noor metal lantern is crafted from iron and glass. It is the perfect home for a candle on your dining table, or even outdoors on the terrace."
+                }
+            ]
+        }
+    ],
+    "search_criteria": {
+        "filter_groups": [{
+            "filters": [{
+                "field": "name",
+                "value": "NOOR LANTERN",
+                "condition_type": "eq"
+            }]
+        }],
+        "page_size": 300,
+        "current_page": 1
+    },
+    "total_count": 2
+}
